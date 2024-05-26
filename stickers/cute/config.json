@@ -1,0 +1,565 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "count": 30,
+      "isAnimated": false,
+      "name": "CuteBear",
+      "packId": "cute_static_1",
+      "priority": 4
+    },
+    {
+      "count": 20,
+      "isAnimated": false,
+      "name": "CuteChippy",
+      "packId": "cute_static_2",
+      "priority": 5
+    },
+    {
+      "count": 18,
+      "isAnimated": false,
+      "name": "Cute",
+      "packId": "cute_static_3",
+      "priority": 1
+    },
+    {
+      "count": 30,
+      "isAnimated": false,
+      "name": "CuteFrog",
+      "packId": "cute_static_5",
+      "priority": 2
+    },
+    {
+      "count": 30,
+      "isAnimated": false,
+      "name": "CutePuppy",
+      "packId": "cute_static_6",
+      "priority": 9
+    },
+    {
+      "count": 23,
+      "isAnimated": false,
+      "name": "CutePuppy3",
+      "packId": "cute_static_8",
+      "priority": 2
+    },
+    {
+      "count": 14,
+      "isAnimated": false,
+      "name": "CuteSkincare",
+      "packId": "cute_static_9",
+      "priority": 1
+    },
+    {
+      "count": 22,
+      "isAnimated": false,
+      "name": "Cutiee",
+      "packId": "cute_static_10",
+      "priority": 3
+    },
+    {
+      "count": 16,
+      "isAnimated": false,
+      "name": "FrogCute",
+      "packId": "cute_static_11",
+      "priority": 1
+    },
+    {
+      "count": 24,
+      "isAnimated": false,
+      "name": "Funassyi",
+      "packId": "cute_static_12",
+      "priority": 1
+    },
+    {
+      "count": 30,
+      "isAnimated": false,
+      "name": "Hanami",
+      "packId": "cute_static_13",
+      "priority": 3
+    },
+    {
+      "count": 25,
+      "isAnimated": false,
+      "name": "HandDrawnCartoony",
+      "packId": "cute_static_14",
+      "priority": 6
+    },
+    {
+      "count": 18,
+      "isAnimated": false,
+      "name": "Kaktus",
+      "packId": "cute_static_15",
+      "priority": 1
+    },
+    {
+      "count": 24,
+      "isAnimated": false,
+      "name": "KawaiiBear",
+      "packId": "cute_static_16",
+      "priority": 8
+    },
+    {
+      "count": 18,
+      "isAnimated": false,
+      "name": "KawaiiFoodPink",
+      "packId": "cute_static_17",
+      "priority": 4
+    },
+    {
+      "count": 13,
+      "isAnimated": false,
+      "name": "Ketnipz",
+      "packId": "cute_static_18",
+      "priority": 3
+    },
+    {
+      "count": 27,
+      "isAnimated": false,
+      "name": "LeeRoHee",
+      "packId": "cute_static_19",
+      "priority": 5
+    },
+    {
+      "count": 17,
+      "isAnimated": false,
+      "name": "MerryMilk",
+      "packId": "cute_static_20",
+      "priority": 8
+    },
+    {
+      "count": 18,
+      "isAnimated": false,
+      "name": "MyLittlePony",
+      "packId": "cute_static_21",
+      "priority": 1
+    },
+    {
+      "count": 18,
+      "isAnimated": false,
+      "name": "Nok",
+      "packId": "cute_static_22",
+      "priority": 8
+    },
+    {
+      "count": 26,
+      "isAnimated": false,
+      "name": "Noompico",
+      "packId": "cute_static_23",
+      "priority": 3
+    },
+    {
+      "count": 20,
+      "isAnimated": false,
+      "name": "Pandabear",
+      "packId": "cute_static_24",
+      "priority": 7
+    },
+    {
+      "count": 18,
+      "isAnimated": false,
+      "name": "PantsBear",
+      "packId": "cute_static_25",
+      "priority": 3
+    },
+    {
+      "count": 21,
+      "isAnimated": false,
+      "name": "PlumpPlump",
+      "packId": "cute_static_26",
+      "priority": 2
+    },
+    {
+      "count": 20,
+      "isAnimated": false,
+      "name": "PuffyBearAndRabbit",
+      "packId": "cute_static_27",
+      "priority": 1
+    },
+    {
+      "count": 18,
+      "isAnimated": false,
+      "name": "Sumikkogurashi",
+      "packId": "cute_static_28",
+      "priority": 0
+    },
+    {
+      "count": 18,
+      "isAnimated": false,
+      "name": "Wbb",
+      "packId": "cute_static_29",
+      "priority": 3
+    },
+    {
+      "count": 28,
+      "isAnimated": false,
+      "name": "YururinPanda",
+      "packId": "cute_static_30",
+      "priority": 3
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "AlienCute",
+      "packId": "cute_animated_0",
+      "priority": 5
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "BabyCute",
+      "packId": "cute_animated_0",
+      "priority": 9
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "BabyCute2",
+      "packId": "cute_animated_2",
+      "priority": 9
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "BabyCute3",
+      "packId": "cute_animated_1",
+      "priority": 9
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "Bear2",
+      "packId": "cute_animated_2",
+      "priority": 4
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "Bearly",
+      "packId": "cute_animated_3",
+      "priority": 9
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "Bunny",
+      "packId": "cute_animated_4",
+      "priority": 9
+    },
+    {
+      "count": 13,
+      "isAnimated": true,
+      "name": "CanticosChickies",
+      "packId": "cute_animated_5",
+      "priority": 2
+    },
+    {
+      "count": 10,
+      "isAnimated": true,
+      "name": "CapybaraCrew",
+      "packId": "cute_animated_6",
+      "priority": 5
+    },
+    {
+      "count": 14,
+      "isAnimated": true,
+      "name": "Cloud",
+      "packId": "cute_animated_8",
+      "priority": 7
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "Corgi",
+      "packId": "cute_animated_9",
+      "priority": 7
+    },
+    {
+      "count": 12,
+      "isAnimated": true,
+      "name": "Corn",
+      "packId": "cute_animated_10",
+      "priority": 1
+    },
+    {
+      "count": 12,
+      "isAnimated": true,
+      "name": "CuteAnim",
+      "packId": "cute_animated_11",
+      "priority": 4
+    },
+    {
+      "count": 16,
+      "isAnimated": true,
+      "name": "CuteAnim1",
+      "packId": "cute_animated_12",
+      "priority": 0
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "CuteAnim2",
+      "packId": "cute_animated_13",
+      "priority": 8
+    },
+    {
+      "count": 20,
+      "isAnimated": true,
+      "name": "CuteAnim3",
+      "packId": "cute_animated_14",
+      "priority": 0
+    },
+    {
+      "count": 16,
+      "isAnimated": true,
+      "name": "CuteLeaf",
+      "packId": "cute_animated_15",
+      "priority": 1
+    },
+    {
+      "count": 16,
+      "isAnimated": true,
+      "name": "CuteLizard",
+      "packId": "cute_animated_16",
+      "priority": 8
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "CuteLove",
+      "packId": "cute_animated_17",
+      "priority": 8
+    },
+    {
+      "count": 18,
+      "isAnimated": true,
+      "name": "Dudu",
+      "packId": "cute_animated_18",
+      "priority": 2
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "Emoji",
+      "packId": "cute_animated_19",
+      "priority": 7
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "Flork",
+      "packId": "cute_animated_20",
+      "priority": 4
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "FrogCuteAnim",
+      "packId": "cute_animated_21",
+      "priority": 6
+    },
+    {
+      "count": 20,
+      "isAnimated": true,
+      "name": "Ghost",
+      "packId": "cute_animated_22",
+      "priority": 0
+    },
+    {
+      "count": 11,
+      "isAnimated": true,
+      "name": "HappyBirthday",
+      "packId": "cute_animated_23",
+      "priority": 3
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "HyperrabbitWebb",
+      "packId": "cute_animated_24",
+      "priority": 5
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "Ipanda",
+      "packId": "cute_animated_25",
+      "priority": 2
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "LsserPandaBeige",
+      "packId": "cute_animated_26",
+      "priority": 8
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "Mimi&Neko",
+      "packId": "cute_animated_27",
+      "priority": 5
+    },
+    {
+      "count": 12,
+      "isAnimated": true,
+      "name": "Mouse",
+      "packId": "cute_animated_28",
+      "priority": 2
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "Ohigenopon",
+      "packId": "cute_animated_29",
+      "priority": 7
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "PiggySticker",
+      "packId": "cute_animated_30",
+      "priority": 1
+    },
+    {
+      "count": 7,
+      "isAnimated": true,
+      "name": "Piggyy",
+      "packId": "cute_animated_31",
+      "priority": 5
+    },
+    {
+      "count": 13,
+      "isAnimated": true,
+      "name": "PigShake",
+      "packId": "cute_animated_32",
+      "priority": 0
+    },
+    {
+      "count": 15,
+      "isAnimated": true,
+      "name": "Pigus",
+      "packId": "cute_animated_33",
+      "priority": 4
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "Rabbit",
+      "packId": "cute_animated_34",
+      "priority": 2
+    },
+    {
+      "count": 15,
+      "isAnimated": true,
+      "name": "Retro",
+      "packId": "cute_animated_35",
+      "priority": 2
+    },
+    {
+      "count": 16,
+      "isAnimated": true,
+      "name": "RosaPig",
+      "packId": "cute_animated_36",
+      "priority": 0
+    },
+    {
+      "count": 29,
+      "isAnimated": true,
+      "name": "ScallionsBoy",
+      "packId": "cute_animated_37",
+      "priority": 2
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "SealHibo",
+      "packId": "cute_animated_38",
+      "priority": 0
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "SealHibo2",
+      "packId": "cute_animated_39",
+      "priority": 9
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "SealHiboLove",
+      "packId": "cute_animated_40",
+      "priority": 7
+    },
+    {
+      "count": 13,
+      "isAnimated": true,
+      "name": "Shinchan",
+      "packId": "cute_animated_41",
+      "priority": 2
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "Spongebob",
+      "packId": "cute_animated_42",
+      "priority": 5
+    },
+    {
+      "count": 16,
+      "isAnimated": true,
+      "name": "Spongebob1",
+      "packId": "cute_animated_43",
+      "priority": 3
+    },
+    {
+      "count": 16,
+      "isAnimated": true,
+      "name": "SummerBear",
+      "packId": "cute_animated_44",
+      "priority": 8
+    },
+    {
+      "count": 25,
+      "isAnimated": true,
+      "name": "SuperBoomi",
+      "packId": "cute_animated_45",
+      "priority": 7
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "Sushi",
+      "packId": "cute_animated_46",
+      "priority": 5
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "Tonton-Friends",
+      "packId": "cute_animated_47",
+      "priority": 8
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "VeryGood!!!",
+      "packId": "cute_animated_50",
+      "priority": 7
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "Volume",
+      "packId": "cute_animated_51",
+      "priority": 2
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "CuteDog",
+      "packId": "cute_static_52",
+      "priority": 0
+    }
+  ]
+}
