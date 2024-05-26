@@ -1,0 +1,649 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "AmanitaPhalloides",
+      "packId": "AmanitaPhalloides",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "AsianBunny",
+      "packId": "AsianBunny",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "BananaAnimated",
+      "packId": "BananaAnimated",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "Batoshik",
+      "packId": "Batoshik",
+      "priority": 1
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "BettPage",
+      "packId": "BettPage",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "BirdOfParadise",
+      "packId": "BirdOfParadise",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "BobJellyfish",
+      "packId": "BobJellyfish",
+      "priority": 1
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "BoysClub",
+      "packId": "BoysClub",
+      "priority": 1
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "BuckyBecky",
+      "packId": "BuckyBecky",
+      "priority": 1
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "Buddy_Bear",
+      "packId": "Buddy_Bear",
+      "priority": 1
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "BumbIebee",
+      "packId": "BumbIebee",
+      "priority": 1
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "Butterfly",
+      "packId": "Butterfly",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "CactusAndBalloon",
+      "packId": "CactusAndBalloon",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "CaptainWhale",
+      "packId": "CaptainWhale",
+      "priority": 1
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "Cat2O",
+      "packId": "Cat2O",
+      "priority": 1
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "CatCatCat",
+      "packId": "CatCatCat",
+      "priority": 1
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "CloudiaSheep",
+      "packId": "CloudiaSheep",
+      "priority": 1
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "ColoredCats",
+      "packId": "ColoredCats",
+      "priority": 1
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "coolguy",
+      "packId": "coolguy",
+      "priority": 1
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "Crocosaurus",
+      "packId": "Crocosaurus",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "Cucaracha",
+      "packId": "Cucaracha",
+      "priority": 1
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "CupidKitty",
+      "packId": "CupidKitty",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "CutieMadeline",
+      "packId": "CutieMadeline",
+      "priority": 1
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "DebraZebra",
+      "packId": "DebraZebra",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "DinDino",
+      "packId": "DinDino",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "DolphinDolph",
+      "packId": "DolphinDolph",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "DolphinJumpy",
+      "packId": "DolphinJumpy",
+      "priority": 1
+    },
+    {
+      "count": 31,
+      "isAnimated": true,
+      "name": "DonutTheDog",
+      "packId": "DonutTheDog",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "EggYolk",
+      "packId": "EggYolk",
+      "priority": 1
+    },
+    {
+      "count": 29,
+      "isAnimated": true,
+      "name": "FishPrometheus",
+      "packId": "FishPrometheus",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "FishPuffer",
+      "packId": "FishPuffer",
+      "priority": 1
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "Flame",
+      "packId": "Flame",
+      "priority": 1
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "FluffyLoafer",
+      "packId": "FluffyLoafer",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "FoxyComrade",
+      "packId": "FoxyComrade",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "FroggoInLove",
+      "packId": "FroggoInLove",
+      "priority": 1
+    },
+    {
+      "count": 41,
+      "isAnimated": true,
+      "name": "FunkyGoose",
+      "packId": "FunkyGoose",
+      "priority": 1
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "GamerGirL",
+      "packId": "GamerGirL",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "Godzi",
+      "packId": "Godzi",
+      "priority": 1
+    },
+    {
+      "count": 16,
+      "isAnimated": true,
+      "name": "GumLoveIs",
+      "packId": "GumLoveIs",
+      "priority": 1
+    },
+    {
+      "count": 35,
+      "isAnimated": true,
+      "name": "Hands4Friends",
+      "packId": "Hands4Friends",
+      "priority": 1
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "HeavensLamby",
+      "packId": "HeavensLamby",
+      "priority": 1
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "HighFox",
+      "packId": "HighFox",
+      "priority": 1
+    },
+    {
+      "count": 34,
+      "isAnimated": true,
+      "name": "HotCherry",
+      "packId": "HotCherry",
+      "priority": 1
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "HuskySiberian",
+      "packId": "HuskySiberian",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "JapaneseShiba",
+      "packId": "JapaneseShiba",
+      "priority": 1
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "JayAndNana",
+      "packId": "JayAndNana",
+      "priority": 1
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "JessicaRabbit",
+      "packId": "JessicaRabbit",
+      "priority": 1
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "KoalaBear",
+      "packId": "KoalaBear",
+      "priority": 1
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "Kozita",
+      "packId": "Kozita",
+      "priority": 1
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "Ladybug",
+      "packId": "Ladybug",
+      "priority": 1
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "LadyCat",
+      "packId": "LadyCat",
+      "priority": 1
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "LeopoldTheLion",
+      "packId": "LeopoldTheLion",
+      "priority": 1
+    },
+    {
+      "count": 30,
+      "isAnimated": true,
+      "name": "LightningBug",
+      "packId": "LightningBug",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "LilPuppy",
+      "packId": "LilPuppy",
+      "priority": 1
+    },
+    {
+      "count": 33,
+      "isAnimated": true,
+      "name": "LongGoose",
+      "packId": "LongGoose",
+      "priority": 1
+    },
+    {
+      "count": 17,
+      "isAnimated": true,
+      "name": "LoveHamsters",
+      "packId": "LoveHamsters",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "LovelyPeachy",
+      "packId": "LovelyPeachy",
+      "priority": 1
+    },
+    {
+      "count": 18,
+      "isAnimated": true,
+      "name": "LoveStory",
+      "packId": "LoveStory",
+      "priority": 1
+    },
+    {
+      "count": 33,
+      "isAnimated": true,
+      "name": "MemesWithCats",
+      "packId": "MemesWithCats",
+      "priority": 1
+    },
+    {
+      "count": 16,
+      "isAnimated": true,
+      "name": "Miss_Bunny",
+      "packId": "Miss_Bunny",
+      "priority": 1
+    },
+    {
+      "count": 31,
+      "isAnimated": true,
+      "name": "ModernDinosaur",
+      "packId": "ModernDinosaur",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "MrAss",
+      "packId": "MrAss",
+      "priority": 1
+    },
+    {
+      "count": 26,
+      "isAnimated": true,
+      "name": "MrCat",
+      "packId": "MrCat",
+      "priority": 1
+    },
+    {
+      "count": 34,
+      "isAnimated": true,
+      "name": "MrCroco",
+      "packId": "MrCroco",
+      "priority": 1
+    },
+    {
+      "count": 17,
+      "isAnimated": true,
+      "name": "MrMandarine",
+      "packId": "MrMandarine",
+      "priority": 1
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "MrPugDog",
+      "packId": "MrPugDog",
+      "priority": 1
+    },
+    {
+      "count": 29,
+      "isAnimated": true,
+      "name": "MrSeagull",
+      "packId": "MrSeagull",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "MrSeal",
+      "packId": "MrSeal",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "Muffin",
+      "packId": "Muffin",
+      "priority": 1
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "Mushroom",
+      "packId": "Mushroom",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "Orangoutang",
+      "packId": "Orangoutang",
+      "priority": 1
+    },
+    {
+      "count": 24,
+      "isAnimated": true,
+      "name": "OwledDidi",
+      "packId": "OwledDidi",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "PoolFlamingo",
+      "packId": "PoolFlamingo",
+      "priority": 1
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "Pretty2Friends",
+      "packId": "Pretty2Friends",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "Qwabbit",
+      "packId": "Qwabbit",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "r2dog2",
+      "packId": "r2dog2",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "RaccoonyDays",
+      "packId": "RaccoonyDays",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "Red_Squirrel",
+      "packId": "Red_Squirrel",
+      "priority": 1
+    },
+    {
+      "count": 23,
+      "isAnimated": true,
+      "name": "RedShibaInu",
+      "packId": "RedShibaInu",
+      "priority": 1
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "SalchichaDog",
+      "packId": "SalchichaDog",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "SnappyCrab",
+      "packId": "SnappyCrab",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "SpottyGiraffe",
+      "packId": "SpottyGiraffe",
+      "priority": 1
+    },
+    {
+      "count": 29,
+      "isAnimated": true,
+      "name": "TendyTiger",
+      "packId": "TendyTiger",
+      "priority": 1
+    },
+    {
+      "count": 34,
+      "isAnimated": true,
+      "name": "TibetanFox",
+      "packId": "TibetanFox",
+      "priority": 1
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "TidyTieTom",
+      "packId": "TidyTieTom",
+      "priority": 1
+    },
+    {
+      "count": 19,
+      "isAnimated": true,
+      "name": "TrickyFox",
+      "packId": "TrickyFox",
+      "priority": 1
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "UtyaD",
+      "packId": "UtyaD",
+      "priority": 1
+    },
+    {
+      "count": 40,
+      "isAnimated": true,
+      "name": "UtyaDuck",
+      "packId": "UtyaDuck",
+      "priority": 1
+    },
+    {
+      "count": 18,
+      "isAnimated": true,
+      "name": "ValentineCat",
+      "packId": "ValentineCat",
+      "priority": 1
+    },
+    {
+      "count": 33,
+      "isAnimated": true,
+      "name": "WallyOwl",
+      "packId": "WallyOwl",
+      "priority": 1
+    },
+    {
+      "count": 22,
+      "isAnimated": true,
+      "name": "WhiteWind",
+      "packId": "WhiteWind",
+      "priority": 1
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "WolfAlpha",
+      "packId": "WolfAlpha",
+      "priority": 1
+    }
+  ]
+}
