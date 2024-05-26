@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "count": 25,
+      "isAnimated": false,
+      "name": "AnimalMeme",
+      "packId": "meme_static_0",
+      "priority": 5
+    },
+    {
+      "count": 15,
+      "isAnimated": false,
+      "name": "Dog",
+      "packId": "meme_static_1",
+      "priority": 9
+    },
+    {
+      "count": 25,
+      "isAnimated": false,
+      "name": "Florks2",
+      "packId": "meme_static_2",
+      "priority": 3
+    },
+    {
+      "count": 15,
+      "isAnimated": false,
+      "name": "Girl",
+      "packId": "meme_static_3",
+      "priority": 6
+    },
+    {
+      "count": 27,
+      "isAnimated": false,
+      "name": "Meme",
+      "packId": "meme_static_4",
+      "priority": 0
+    },
+    {
+      "count": 23,
+      "isAnimated": false,
+      "name": "Meme2",
+      "packId": "meme_static_5",
+      "priority": 0
+    },
+    {
+      "count": 30,
+      "isAnimated": false,
+      "name": "MemeCartoon2",
+      "packId": "meme_static_7",
+      "priority": 9
+    },
+    {
+      "count": 16,
+      "isAnimated": false,
+      "name": "MemeCartoon3",
+      "packId": "meme_static_8",
+      "priority": 6
+    },
+    {
+      "count": 21,
+      "isAnimated": false,
+      "name": "MemeFrog",
+      "packId": "meme_static_9",
+      "priority": 3
+    },
+    {
+      "count": 30,
+      "isAnimated": false,
+      "name": "MemeFunny",
+      "packId": "meme_static_10",
+      "priority": 6
+    },
+    {
+      "count": 30,
+      "isAnimated": false,
+      "name": "MemeFunny2",
+      "packId": "meme_static_11",
+      "priority": 6
+    },
+    {
+      "count": 16,
+      "isAnimated": false,
+      "name": "Ronaldo",
+      "packId": "meme_static_12",
+      "priority": 5
+    },
+    {
+      "count": 20,
+      "isAnimated": false,
+      "name": "Thingking",
+      "packId": "meme_static_13",
+      "priority": 2
+    },
+    {
+      "count": 30,
+      "isAnimated": false,
+      "name": "Troll",
+      "packId": "meme_static_14",
+      "priority": 2
+    },
+    {
+      "count": 21,
+      "isAnimated": true,
+      "name": "LeonardoDicaprio",
+      "packId": "meme_animated_0",
+      "priority": 1
+    },
+    {
+      "count": 29,
+      "isAnimated": true,
+      "name": "Like",
+      "packId": "meme_animated_1",
+      "priority": 9
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "Meme1",
+      "packId": "meme_animated_2",
+      "priority": 4
+    },
+    {
+      "count": 19,
+      "isAnimated": true,
+      "name": "Meme2Anim",
+      "packId": "meme_animated_3",
+      "priority": 1
+    },
+    {
+      "count": 13,
+      "isAnimated": true,
+      "name": "Meme3",
+      "packId": "meme_animated_4",
+      "priority": 2
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "MemeCrazy",
+      "packId": "meme_animated_5",
+      "priority": 5
+    },
+    {
+      "count": 15,
+      "isAnimated": true,
+      "name": "Memee",
+      "packId": "meme_animated_6",
+      "priority": 5
+    },
+    {
+      "count": 27,
+      "isAnimated": true,
+      "name": "MemeFn",
+      "packId": "meme_animated_7",
+      "priority": 8
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "MemeFunnyAnim",
+      "packId": "meme_animated_8",
+      "priority": 3
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "MemeSoFunny",
+      "packId": "meme_animated_9",
+      "priority": 0
+    },
+    {
+      "count": 18,
+      "isAnimated": true,
+      "name": "MemeWebb",
+      "packId": "meme_animated_10",
+      "priority": 0
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "Sad",
+      "packId": "meme_animated_11",
+      "priority": 5
+    },
+    {
+      "count": 15,
+      "isAnimated": true,
+      "name": "WillSmith",
+      "packId": "meme_animated_12",
+      "priority": 0
+    },
+    {
+      "count": 28,
+      "isAnimated": true,
+      "name": "Wow2",
+      "packId": "meme_animated_13",
+      "priority": 6
+    }
+  ]
+}
