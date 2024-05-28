@@ -1,1568 +1,1568 @@
 [
-    {
-        "name": "Home",
-        "order": 1,
-        "path": "stickers/home",
-        "packs": [
-            {
-                "pack": "2R7DUT",
-                "order": 1
-            },
-            {
-                "pack": "2SYUFT",
-                "order": 1
-            },
-            {
-                "pack": "3P4KAA",
-                "order": 1
-            },
-            {
-                "pack": "5FXES5",
-                "order": 1
-            },
-            {
-                "pack": "6MS73U",
-                "order": 1
-            },
-            {
-                "pack": "7DAMUN",
-                "order": 1
-            },
-            {
-                "pack": "9EQQ2H",
-                "order": 1
-            },
-            {
-                "pack": "9NA7V9",
-                "order": 1
-            },
-            {
-                "pack": "62SBMK",
-                "order": 1
-            },
-            {
-                "pack": "367EV9",
-                "order": 1
-            },
-            {
-                "pack": "A8R83X",
-                "order": 1
-            },
-            {
-                "pack": "AB4WQH",
-                "order": 1
-            },
-            {
-                "pack": "AboutYouAndMe",
-                "order": 1
-            },
-            {
-                "pack": "Aliens",
-                "order": 1
-            },
-            {
-                "pack": "AngryAnimals",
-                "order": 1
-            },
-            {
-                "pack": "AnimeChibiBoys",
-                "order": 1
-            },
-            {
-                "pack": "Animoji",
-                "order": 1
-            },
-            {
-                "pack": "BabiesAnimated",
-                "order": 1
-            },
-            {
-                "pack": "BestBollyExpression",
-                "order": 1
-            },
-            {
-                "pack": "BHBUTY",
-                "order": 1
-            },
-            {
-                "pack": "BirthdayCake",
-                "order": 1
-            },
-            {
-                "pack": "BirthdayWishes",
-                "order": 1
-            },
-            {
-                "pack": "BlackPinkOne",
-                "order": 1
-            },
-            {
-                "pack": "BlackPinkTwo",
-                "order": 1
-            },
-            {
-                "pack": "BrazilChat",
-                "order": 1
-            },
-            {
-                "pack": "BrazilChat2",
-                "order": 1
-            },
-            {
-                "pack": "BrazilChat3",
-                "order": 1
-            },
-            {
-                "pack": "BrazilSpecial",
-                "order": 1
-            },
-            {
-                "pack": "BSSSWA",
-                "order": 1
-            },
-            {
-                "pack": "BWA5TX",
-                "order": 1
-            },
-            {
-                "pack": "CakesAndFlowers",
-                "order": 1
-            },
-            {
-                "pack": "CatDialogues",
-                "order": 1
-            },
-            {
-                "pack": "CongratulationsPack",
-                "order": 1
-            },
-            {
-                "pack": "CounterStrike1",
-                "order": 1
-            },
-            {
-                "pack": "CounterStrike2",
-                "order": 1
-            },
-            {
-                "pack": "CryingAnimals",
-                "order": 1
-            },
-            {
-                "pack": "CuteBears",
-                "order": 1
-            },
-            {
-                "pack": "CuteCouple",
-                "order": 1
-            },
-            {
-                "pack": "CuteEmojiFaces",
-                "order": 1
-            },
-            {
-                "pack": "CuteOwls",
-                "order": 1
-            },
-            {
-                "pack": "D784F5",
-                "order": 1
-            },
-            {
-                "pack": "DogEmoji",
-                "order": 1
-            },
-            {
-                "pack": "DotoriKorean",
-                "order": 1
-            },
-            {
-                "pack": "DragonBallTwo",
-                "order": 1
-            },
-            {
-                "pack": "EDKR3V",
-                "order": 1
-            },
-            {
-                "pack": "EPYNHS",
-                "order": 1
-            },
-            {
-                "pack": "ExoBand",
-                "order": 1
-            },
-            {
-                "pack": "F3Q9WH",
-                "order": 1
-            },
-            {
-                "pack": "FoodDesserts",
-                "order": 1
-            },
-            {
-                "pack": "FoodEmojis",
-                "order": 1
-            },
-            {
-                "pack": "Foodie",
-                "order": 1
-            },
-            {
-                "pack": "Fortinite1",
-                "order": 1
-            },
-            {
-                "pack": "Fortnite2",
-                "order": 1
-            },
-            {
-                "pack": "FunnyMonkey",
-                "order": 1
-            },
-            {
-                "pack": "GoodMorning",
-                "order": 1
-            },
-            {
-                "pack": "GoodNightPack",
-                "order": 1
-            },
-            {
-                "pack": "GPYBJK",
-                "order": 1
-            },
-            {
-                "pack": "Graduation",
-                "order": 1
-            },
-            {
-                "pack": "HappyBirthday",
-                "order": 1
-            },
-            {
-                "pack": "HappySunday",
-                "order": 1
-            },
-            {
-                "pack": "HeartEmoji",
-                "order": 1
-            },
-            {
-                "pack": "HGVFUA",
-                "order": 1
-            },
-            {
-                "pack": "HiByePack",
-                "order": 1
-            },
-            {
-                "pack": "Hugemoji",
-                "order": 1
-            },
-            {
-                "pack": "IcePopsicles",
-                "order": 1
-            },
-            {
-                "pack": "IkonBand",
-                "order": 1
-            },
-            {
-                "pack": "IndonesiaChat1",
-                "order": 1
-            },
-            {
-                "pack": "IndonesiaChat2",
-                "order": 1
-            },
-            {
-                "pack": "IndonesiaChat3",
-                "order": 1
-            },
-            {
-                "pack": "IndonesiaChat5",
-                "order": 1
-            },
-            {
-                "pack": "JinmiranAnimated",
-                "order": 1
-            },
-            {
-                "pack": "JP86BM",
-                "order": 1
-            },
-            {
-                "pack": "KeepCalm",
-                "order": 1
-            },
-            {
-                "pack": "KPopStickers",
-                "order": 1
-            },
-            {
-                "pack": "KZ824K",
-                "order": 1
-            },
-            {
-                "pack": "LazyMorning",
-                "order": 1
-            },
-            {
-                "pack": "LeagueOfLegends",
-                "order": 1
-            },
-            {
-                "pack": "LoveLove",
-                "order": 1
-            },
-            {
-                "pack": "LovelyStory",
-                "order": 1
-            },
-            {
-                "pack": "Lovers",
-                "order": 1
-            },
-            {
-                "pack": "LoveYou",
-                "order": 1
-            },
-            {
-                "pack": "LovingCouples",
-                "order": 1
-            },
-            {
-                "pack": "MalayalamChat",
-                "order": 1
-            },
-            {
-                "pack": "MemeTemplates",
-                "order": 1
-            },
-            {
-                "pack": "MinecraftPack",
-                "order": 1
-            },
-            {
-                "pack": "MonkeyEmojis",
-                "order": 1
-            },
-            {
-                "pack": "MrCoffee",
-                "order": 1
-            },
-            {
-                "pack": "NumberCakes",
-                "order": 1
-            },
-            {
-                "pack": "OnePunchMan",
-                "order": 1
-            },
-            {
-                "pack": "OutlineEmojis",
-                "order": 1
-            },
-            {
-                "pack": "PandaEmo",
-                "order": 1
-            },
-            {
-                "pack": "PandaEmojis",
-                "order": 1
-            },
-            {
-                "pack": "PenguinAct",
-                "order": 1
-            },
-            {
-                "pack": "PortugueseChat",
-                "order": 1
-            },
-            {
-                "pack": "RDNRQN",
-                "order": 1
-            },
-            {
-                "pack": "SN44DK",
-                "order": 1
-            },
-            {
-                "pack": "SweetFamily",
-                "order": 1
-            },
-            {
-                "pack": "T3LRNV",
-                "order": 1
-            },
-            {
-                "pack": "T934YH",
-                "order": 1
-            },
-            {
-                "pack": "TaarakMehta",
-                "order": 1
-            },
-            {
-                "pack": "TamilAnimated",
-                "order": 1
-            },
-            {
-                "pack": "ThankYou2",
-                "order": 1
-            },
-            {
-                "pack": "TL6TTT",
-                "order": 1
-            },
-            {
-                "pack": "TwiceBandOne",
-                "order": 1
-            },
-            {
-                "pack": "TwiceBandTwo",
-                "order": 1
-            },
-            {
-                "pack": "VegetableEmojis",
-                "order": 1
-            },
-            {
-                "pack": "W3C36K",
-                "order": 1
-            },
-            {
-                "pack": "WeekendWishes",
-                "order": 1
-            },
-            {
-                "pack": "WelcomePack1",
-                "order": 1
-            },
-            {
-                "pack": "WelcomePack2",
-                "order": 1
-            },
-            {
-                "pack": "X4YUYG",
-                "order": 1
-            },
-            {
-                "pack": "XDYXE8",
-                "order": 1
-            },
-            {
-                "pack": "XNCJF5",
-                "order": 1
-            },
-            {
-                "pack": "XP8STG",
-                "order": 1
-            },
-            {
-                "pack": "YellowSquareEmojis",
-                "order": 1
-            },
-            {
-                "pack": "YetiSnowman",
-                "order": 1
-            },
-            {
-                "pack": "YoungLove",
-                "order": 1
-            },
-            {
-                "pack": "ZVUUT9",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "Telegram",
-        "order": 2,
-        "path": "stickers/telegram",
-        "packs": [
-            {
-                "pack": "AmanitaPhalloides",
-                "order": 1
-            },
-            {
-                "pack": "AsianBunny",
-                "order": 1
-            },
-            {
-                "pack": "BettPage",
-                "order": 1
-            },
-            {
-                "pack": "BirdOfParadise",
-                "order": 1
-            },
-            {
-                "pack": "BobJellyfish",
-                "order": 1
-            },
-            {
-                "pack": "BoysClub",
-                "order": 1
-            },
-            {
-                "pack": "Buddy_Bear",
-                "order": 1
-            },
-            {
-                "pack": "CaptainWhale",
-                "order": 1
-            },
-            {
-                "pack": "CatCatCat",
-                "order": 1
-            },
-            {
-                "pack": "Crocosaurus",
-                "order": 1
-            },
-            {
-                "pack": "DebraZebra",
-                "order": 1
-            },
-            {
-                "pack": "FishPuffer",
-                "order": 1
-            },
-            {
-                "pack": "FoxyComrade",
-                "order": 1
-            },
-            {
-                "pack": "HotCherry",
-                "order": 1
-            },
-            {
-                "pack": "Ladybug",
-                "order": 1
-            },
-            {
-                "pack": "LovelyPeachy",
-                "order": 1
-            },
-            {
-                "pack": "Miss_Bunny",
-                "order": 1
-            },
-            {
-                "pack": "MrCat",
-                "order": 1
-            },
-            {
-                "pack": "MrCroco",
-                "order": 1
-            },
-            {
-                "pack": "MrPugDog",
-                "order": 1
-            },
-            {
-                "pack": "Muffin",
-                "order": 1
-            },
-            {
-                "pack": "PoolFlamingo",
-                "order": 1
-            },
-            {
-                "pack": "r2dog2",
-                "order": 1
-            },
-            {
-                "pack": "Red_Squirrel",
-                "order": 1
-            },
-            {
-                "pack": "UtyaDuck",
-                "order": 1
-            },
-            {
-                "pack": "WallyOwl",
-                "order": 1
-            },
-            {
-                "pack": "WolfAlpha",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "Anime",
-        "order": 3,
-        "path": "stickers/anime",
-        "packs": [
-            {
-                "pack": "AnimeLove",
-                "order": 1
-            },
-            {
-                "pack": "AnimeSet1",
-                "order": 1
-            },
-            {
-                "pack": "AnimeSet2",
-                "order": 1
-            },
-            {
-                "pack": "AnimeSet3",
-                "order": 1
-            },
-            {
-                "pack": "AnimeSet4",
-                "order": 1
-            },
-            {
-                "pack": "DoraemonStickersOne",
-                "order": 1
-            },
-            {
-                "pack": "DoraemonStickersTwo",
-                "order": 1
-            },
-            {
-                "pack": "DotoriKorean",
-                "order": 1
-            },
-            {
-                "pack": "DragonBallFour",
-                "order": 1
-            },
-            {
-                "pack": "DragonBallOne",
-                "order": 1
-            },
-            {
-                "pack": "DragonBallThree",
-                "order": 1
-            },
-            {
-                "pack": "DragonBallTwo",
-                "order": 1
-            },
-            {
-                "pack": "HimoutoUmaruChan",
-                "order": 1
-            },
-            {
-                "pack": "KPopStickers",
-                "order": 1
-            },
-            {
-                "pack": "Mickey_Mouse",
-                "order": 1
-            },
-            {
-                "pack": "NarutoTwo",
-                "order": 1
-            },
-            {
-                "pack": "OnePunchMan",
-                "order": 1
-            },
-            {
-                "pack": "ReZero",
-                "order": 1
-            },
-            {
-                "pack": "ShinChan",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "Kpop",
-        "order": 4,
-        "path": "stickers/kpop",
-        "packs": [
-            {
-                "pack": "BangtanBoys",
-                "order": 1
-            },
-            {
-                "pack": "BlackPinkOne",
-                "order": 1
-            },
-            {
-                "pack": "BlackPinkTwo",
-                "order": 1
-            },
-            {
-                "pack": "CuteFox",
-                "order": 1
-            },
-            {
-                "pack": "DotoriKorean",
-                "order": 1
-            },
-            {
-                "pack": "ExoBand",
-                "order": 1
-            },
-            {
-                "pack": "IkonBand",
-                "order": 1
-            },
-            {
-                "pack": "KPopStickers",
-                "order": 1
-            },
-            {
-                "pack": "TwiceBandFour",
-                "order": 1
-            },
-            {
-                "pack": "TwiceBandOne",
-                "order": 1
-            },
-            {
-                "pack": "TwiceBandThree",
-                "order": 1
-            },
-            {
-                "pack": "TwiceBandTwo",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "LOL",
-        "order": 5,
-        "path": "stickers/lol",
-        "packs": [
-            {
-                "pack": "2PD34P",
-                "order": 1
-            },
-            {
-                "pack": "3D9L7M",
-                "order": 1
-            },
-            {
-                "pack": "3EWKW9",
-                "order": 1
-            },
-            {
-                "pack": "3VTR3F",
-                "order": 1
-            },
-            {
-                "pack": "3WA4JN",
-                "order": 1
-            },
-            {
-                "pack": "6PGDMX",
-                "order": 1
-            },
-            {
-                "pack": "8Y2RNW",
-                "order": 1
-            },
-            {
-                "pack": "9J7JPZ",
-                "order": 1
-            },
-            {
-                "pack": "33AX99",
-                "order": 1
-            },
-            {
-                "pack": "58PN7J",
-                "order": 1
-            },
-            {
-                "pack": "A6SBB6",
-                "order": 1
-            },
-            {
-                "pack": "AGW4NF",
-                "order": 1
-            },
-            {
-                "pack": "BDNQQQ",
-                "order": 1
-            },
-            {
-                "pack": "BFSCJD",
-                "order": 1
-            },
-            {
-                "pack": "BT3YSD",
-                "order": 1
-            },
-            {
-                "pack": "C346TD",
-                "order": 1
-            },
-            {
-                "pack": "CYP4MC",
-                "order": 1
-            },
-            {
-                "pack": "DFHVNK",
-                "order": 1
-            },
-            {
-                "pack": "DHDTC7",
-                "order": 1
-            },
-            {
-                "pack": "DS4RYG",
-                "order": 1
-            },
-            {
-                "pack": "E2CYCK",
-                "order": 1
-            },
-            {
-                "pack": "F2XFPH",
-                "order": 1
-            },
-            {
-                "pack": "F5ZM9F",
-                "order": 1
-            },
-            {
-                "pack": "FGLYPC",
-                "order": 1
-            },
-            {
-                "pack": "FunnyMonkey",
-                "order": 1
-            },
-            {
-                "pack": "G9LXPK",
-                "order": 1
-            },
-            {
-                "pack": "HFUA2L",
-                "order": 1
-            },
-            {
-                "pack": "LeagueOfLegends",
-                "order": 1
-            },
-            {
-                "pack": "LJAKQW",
-                "order": 1
-            },
-            {
-                "pack": "MrBean",
-                "order": 1
-            },
-            {
-                "pack": "MrFunnyBean",
-                "order": 1
-            },
-            {
-                "pack": "PNDVNE",
-                "order": 1
-            },
-            {
-                "pack": "PoopPack",
-                "order": 1
-            },
-            {
-                "pack": "R3NKGU",
-                "order": 1
-            },
-            {
-                "pack": "RSZRP3",
-                "order": 1
-            },
-            {
-                "pack": "S5GA6U",
-                "order": 1
-            },
-            {
-                "pack": "U5D9WG",
-                "order": 1
-            },
-            {
-                "pack": "UBR9PJ",
-                "order": 1
-            },
-            {
-                "pack": "UGGFNJ",
-                "order": 1
-            },
-            {
-                "pack": "V7T3ZF",
-                "order": 1
-            },
-            {
-                "pack": "VB5XL6",
-                "order": 1
-            },
-            {
-                "pack": "WFSWQH",
-                "order": 1
-            },
-            {
-                "pack": "WMPL8R",
-                "order": 1
-            },
-            {
-                "pack": "WRM26B",
-                "order": 1
-            },
-            {
-                "pack": "WSDB99",
-                "order": 1
-            },
-            {
-                "pack": "X6XQEY",
-                "order": 1
-            },
-            {
-                "pack": "Y4QAGB",
-                "order": 1
-            },
-            {
-                "pack": "YGM3J9",
-                "order": 1
-            },
-            {
-                "pack": "Z6T59B",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "Animal",
-        "order": 6,
-        "path": "stickers/animals",
-        "packs": [
-            {
-                "pack": "4NKQX6",
-                "order": 1
-            },
-            {
-                "pack": "5KG3UR",
-                "order": 1
-            },
-            {
-                "pack": "Aliens",
-                "order": 1
-            },
-            {
-                "pack": "AngryAnimals",
-                "order": 1
-            },
-            {
-                "pack": "Animals",
-                "order": 1
-            },
-            {
-                "pack": "CatFullMoon",
-                "order": 1
-            },
-            {
-                "pack": "CoolAnimals",
-                "order": 1
-            },
-            {
-                "pack": "CryingAnimals",
-                "order": 1
-            },
-            {
-                "pack": "CuteChicken",
-                "order": 1
-            },
-            {
-                "pack": "CuteOwls",
-                "order": 1
-            },
-            {
-                "pack": "EasterBunny",
-                "order": 1
-            },
-            {
-                "pack": "FunnyMonkey",
-                "order": 1
-            },
-            {
-                "pack": "GEDTSY",
-                "order": 1
-            },
-            {
-                "pack": "GeorgeThePenguin",
-                "order": 1
-            },
-            {
-                "pack": "GH68J3",
-                "order": 1
-            },
-            {
-                "pack": "HappyNumbers",
-                "order": 1
-            },
-            {
-                "pack": "HY2AD6",
-                "order": 1
-            },
-            {
-                "pack": "LittlePony",
-                "order": 1
-            },
-            {
-                "pack": "MachikoRabbit1",
-                "order": 1
-            },
-            {
-                "pack": "MachikoRabbit2",
-                "order": 1
-            },
-            {
-                "pack": "MachikoRabbit3",
-                "order": 1
-            },
-            {
-                "pack": "MachikoRabbit4",
-                "order": 1
-            },
-            {
-                "pack": "MeetThePugs",
-                "order": 1
-            },
-            {
-                "pack": "MonkeyEmojis",
-                "order": 1
-            },
-            {
-                "pack": "NTJTC4",
-                "order": 1
-            },
-            {
-                "pack": "PandaEmo",
-                "order": 1
-            },
-            {
-                "pack": "PandaEmojis",
-                "order": 1
-            },
-            {
-                "pack": "PenguinAct",
-                "order": 1
-            },
-            {
-                "pack": "REMYAK",
-                "order": 1
-            },
-            {
-                "pack": "RXUKRU",
-                "order": 1
-            },
-            {
-                "pack": "SimonsCat",
-                "order": 1
-            },
-            {
-                "pack": "SpeakingAnimals",
-                "order": 1
-            },
-            {
-                "pack": "T6A7HR",
-                "order": 1
-            },
-            {
-                "pack": "VUEGGV",
-                "order": 1
-            },
-            {
-                "pack": "YetiSnowman",
-                "order": 1
-            },
-            {
-                "pack": "YME4ET",
-                "order": 1
-            },
-            {
-                "pack": "YWBGLN",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "Wishes",
-        "order": 7,
-        "path": "stickers/wishes",
-        "packs": [
-            {
-                "pack": "2NGYAR",
-                "order": 1
-            },
-            {
-                "pack": "4V6QC8",
-                "order": 1
-            },
-            {
-                "pack": "6YUVSE",
-                "order": 1
-            },
-            {
-                "pack": "7P76U7",
-                "order": 1
-            },
-            {
-                "pack": "85RJQW",
-                "order": 1
-            },
-            {
-                "pack": "AHJSQL",
-                "order": 1
-            },
-            {
-                "pack": "AnniversaryWishes",
-                "order": 1
-            },
-            {
-                "pack": "AQJ2SQ",
-                "order": 1
-            },
-            {
-                "pack": "AUFKDF",
-                "order": 1
-            },
-            {
-                "pack": "BirthdayWishes",
-                "order": 1
-            },
-            {
-                "pack": "BQ3WSS",
-                "order": 1
-            },
-            {
-                "pack": "C2V79R",
-                "order": 1
-            },
-            {
-                "pack": "ChristmasWishes",
-                "order": 1
-            },
-            {
-                "pack": "FFBAPM",
-                "order": 1
-            },
-            {
-                "pack": "FRX9ZL",
-                "order": 1
-            },
-            {
-                "pack": "G4NQJK",
-                "order": 1
-            },
-            {
-                "pack": "GoodNightPack",
-                "order": 1
-            },
-            {
-                "pack": "Graduation",
-                "order": 1
-            },
-            {
-                "pack": "GujaratiWishes",
-                "order": 1
-            },
-            {
-                "pack": "HA76RB",
-                "order": 1
-            },
-            {
-                "pack": "HappyPongal2",
-                "order": 1
-            },
-            {
-                "pack": "HoliWishes",
-                "order": 1
-            },
-            {
-                "pack": "HPX7QK",
-                "order": 1
-            },
-            {
-                "pack": "L4P74P",
-                "order": 1
-            },
-            {
-                "pack": "LohriWishes",
-                "order": 1
-            },
-            {
-                "pack": "M5FAQP",
-                "order": 1
-            },
-            {
-                "pack": "M46P36",
-                "order": 1
-            },
-            {
-                "pack": "MiladunNabiWishes",
-                "order": 1
-            },
-            {
-                "pack": "NB4D2L",
-                "order": 1
-            },
-            {
-                "pack": "NDH9VM",
-                "order": 1
-            },
-            {
-                "pack": "NewYear2022Wishes",
-                "order": 1
-            },
-            {
-                "pack": "NKS4V2",
-                "order": 1
-            },
-            {
-                "pack": "PENLHP",
-                "order": 1
-            },
-            {
-                "pack": "Pongal",
-                "order": 1
-            },
-            {
-                "pack": "PongalWishes1",
-                "order": 1
-            },
-            {
-                "pack": "PongalWishes2",
-                "order": 1
-            },
-            {
-                "pack": "Q2RFAU",
-                "order": 1
-            },
-            {
-                "pack": "QN8839",
-                "order": 1
-            },
-            {
-                "pack": "QYATF4",
-                "order": 1
-            },
-            {
-                "pack": "RE2VJT",
-                "order": 1
-            },
-            {
-                "pack": "RQYVXG",
-                "order": 1
-            },
-            {
-                "pack": "RZJ2RX",
-                "order": 1
-            },
-            {
-                "pack": "U2XDLM",
-                "order": 1
-            },
-            {
-                "pack": "U7Y5LP",
-                "order": 1
-            },
-            {
-                "pack": "UT3M4S",
-                "order": 1
-            },
-            {
-                "pack": "V528RX",
-                "order": 1
-            },
-            {
-                "pack": "VHCVQX",
-                "order": 1
-            },
-            {
-                "pack": "W8KA9S",
-                "order": 1
-            },
-            {
-                "pack": "W8RKGF",
-                "order": 1
-            },
-            {
-                "pack": "WeekendWishes",
-                "order": 1
-            },
-            {
-                "pack": "Wishes2",
-                "order": 1
-            },
-            {
-                "pack": "WJE2X9",
-                "order": 1
-            },
-            {
-                "pack": "WXQ5XQ",
-                "order": 1
-            },
-            {
-                "pack": "XJHCEF",
-                "order": 1
-            },
-            {
-                "pack": "XPHWBW",
-                "order": 1
-            },
-            {
-                "pack": "Y9JME4",
-                "order": 1
-            },
-            {
-                "pack": "Y64J6R",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "Mavel",
-        "order": 8,
-        "path": "stickers/marvel",
-        "packs": [
-            {
-                "pack": "SpidermanHomecoming",
-                "order": 1
-            },
-            {
-                "pack": "OnamSpecial",
-                "order": 1
-            },
-            {
-                "pack": "NCZ77F",
-                "order": 1
-            },
-            {
-                "pack": "Onam",
-                "order": 1
-            },
-            {
-                "pack": "MarvelStickers3",
-                "order": 1
-            },
-            {
-                "pack": "MarvelTrolls",
-                "order": 1
-            },
-            {
-                "pack": "MarvelStickers2",
-                "order": 1
-            },
-            {
-                "pack": "MarvelStickers1",
-                "order": 1
-            },
-            {
-                "pack": "DeadpoolSticker",
-                "order": 1
-            },
-            {
-                "pack": "DERLDD",
-                "order": 1
-            },
-            {
-                "pack": "CPREYA",
-                "order": 1
-            },
-            {
-                "pack": "AZBYRD",
-                "order": 1
-            },
-            {
-                "pack": "AvengersPack",
-                "order": 1
-            },
-            {
-                "pack": "ARLBE4",
-                "order": 1
-            },
-            {
-                "pack": "AFNTCV",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "Game",
-        "order": 9,
-        "path": "stickers/games",
-        "packs": [
-            {
-                "pack": "66A6CN",
-                "order": 1
-            },
-            {
-                "pack": "CounterStrike1",
-                "order": 1
-            },
-            {
-                "pack": "CounterStrike2",
-                "order": 1
-            },
-            {
-                "pack": "F3AAGP",
-                "order": 1
-            },
-            {
-                "pack": "Fortinite1",
-                "order": 1
-            },
-            {
-                "pack": "Fortnite2",
-                "order": 1
-            },
-            {
-                "pack": "GotCharacters",
-                "order": 1
-            },
-            {
-                "pack": "MinecraftPack",
-                "order": 1
-            },
-            {
-                "pack": "PokemonPack1",
-                "order": 1
-            },
-            {
-                "pack": "PokemonPack2",
-                "order": 1
-            },
-            {
-                "pack": "PokemonPack3",
-                "order": 1
-            },
-            {
-                "pack": "PokemonPack4",
-                "order": 1
-            },
-            {
-                "pack": "PokemonPack5",
-                "order": 1
-            },
-            {
-                "pack": "PUBG3D",
-                "order": 1
-            },
-            {
-                "pack": "PUBGCartoonPack",
-                "order": 1
-            },
-            {
-                "pack": "PUBGMalayalam",
-                "order": 1
-            },
-            {
-                "pack": "PUBGText",
-                "order": 1
-            },
-            {
-                "pack": "PUBGVectorSet",
-                "order": 1
-            },
-            {
-                "pack": "PUBGWeapons",
-                "order": 1
-            },
-            {
-                "pack": "RU5C9D",
-                "order": 1
-            }
-        ]
-    },
-    {
-        "name": "Sport",
-        "order": 10,
-        "path": "stickers/sport",
-        "packs": [
-            {
-                "pack": "6EZU29",
-                "order": 1
-            },
-            {
-                "pack": "7MJVVY",
-                "order": 1
-            },
-            {
-                "pack": "7MPR7E",
-                "order": 1
-            },
-            {
-                "pack": "9gagPopular",
-                "order": 1
-            },
-            {
-                "pack": "56T8KW",
-                "order": 1
-            },
-            {
-                "pack": "CQ4BAQ",
-                "order": 1
-            },
-            {
-                "pack": "CricketBatsmanSet",
-                "order": 1
-            },
-            {
-                "pack": "CricketersReaction",
-                "order": 1
-            },
-            {
-                "pack": "CricketersReaction2",
-                "order": 1
-            },
-            {
-                "pack": "CricketPlayerMeme1",
-                "order": 1
-            },
-            {
-                "pack": "DNERC8",
-                "order": 1
-            },
-            {
-                "pack": "IndianCricketTeam",
-                "order": 1
-            },
-            {
-                "pack": "IPL2",
-                "order": 1
-            },
-            {
-                "pack": "LionelMessi",
-                "order": 1
-            },
-            {
-                "pack": "LQHCQ6",
-                "order": 1
-            },
-            {
-                "pack": "MotorBikes",
-                "order": 1
-            },
-            {
-                "pack": "NGB2DZ",
-                "order": 1
-            },
-            {
-                "pack": "NTMFY4",
-                "order": 1
-            },
-            {
-                "pack": "U3SUVV",
-                "order": 1
-            },
-            {
-                "pack": "WWLEY2",
-                "order": 1
-            }
-        ]
-    }
+  {
+    "name": "Home",
+    "order": 1,
+    "path": "stickers/home",
+    "packs": [
+      {
+        "pack": "stickers/home/2R7DUT",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/2SYUFT",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/3P4KAA",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/5FXES5",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/6MS73U",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/7DAMUN",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/9EQQ2H",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/9NA7V9",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/62SBMK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/367EV9",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/A8R83X",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/AB4WQH",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/AboutYouAndMe",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/Aliens",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/AngryAnimals",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/AnimeChibiBoys",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/Animoji",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BabiesAnimated",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BestBollyExpression",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BHBUTY",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BirthdayCake",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BirthdayWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BlackPinkOne",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BlackPinkTwo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BrazilChat",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BrazilChat2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BrazilChat3",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BrazilSpecial",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BSSSWA",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/BWA5TX",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CakesAndFlowers",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CatDialogues",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CongratulationsPack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CounterStrike1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CounterStrike2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CryingAnimals",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CuteBears",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CuteCouple",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CuteEmojiFaces",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/CuteOwls",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/D784F5",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/DogEmoji",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/DotoriKorean",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/DragonBallTwo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/EDKR3V",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/EPYNHS",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/ExoBand",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/F3Q9WH",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/FoodDesserts",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/FoodEmojis",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/Foodie",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/Fortinite1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/Fortnite2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/FunnyMonkey",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/GoodMorning",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/GoodNightPack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/GPYBJK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/Graduation",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/HappyBirthday",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/HappySunday",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/HeartEmoji",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/HGVFUA",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/HiByePack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/Hugemoji",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/IcePopsicles",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/IkonBand",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/IndonesiaChat1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/IndonesiaChat2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/IndonesiaChat3",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/IndonesiaChat5",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/JinmiranAnimated",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/JP86BM",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/KeepCalm",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/KPopStickers",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/KZ824K",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/LazyMorning",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/LeagueOfLegends",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/LoveLove",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/LovelyStory",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/Lovers",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/LoveYou",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/LovingCouples",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/MalayalamChat",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/MemeTemplates",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/MinecraftPack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/MonkeyEmojis",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/MrCoffee",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/NumberCakes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/OnePunchMan",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/OutlineEmojis",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/PandaEmo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/PandaEmojis",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/PenguinAct",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/PortugueseChat",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/RDNRQN",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/SN44DK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/SweetFamily",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/T3LRNV",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/T934YH",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/TaarakMehta",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/TamilAnimated",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/ThankYou2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/TL6TTT",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/TwiceBandOne",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/TwiceBandTwo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/VegetableEmojis",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/W3C36K",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/WeekendWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/WelcomePack1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/WelcomePack2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/X4YUYG",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/XDYXE8",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/XNCJF5",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/XP8STG",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/YellowSquareEmojis",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/YetiSnowman",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/YoungLove",
+        "order": 1
+      },
+      {
+        "pack": "stickers/home/ZVUUT9",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Telegram",
+    "order": 2,
+    "path": "stickers/telegram",
+    "packs": [
+      {
+        "pack": "stickers/telegram/AmanitaPhalloides",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/AsianBunny",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/BettPage",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/BirdOfParadise",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/BobJellyfish",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/BoysClub",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/Buddy_Bear",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/CaptainWhale",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/CatCatCat",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/Crocosaurus",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/DebraZebra",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/FishPuffer",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/FoxyComrade",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/HotCherry",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/Ladybug",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/LovelyPeachy",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/Miss_Bunny",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/MrCat",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/MrCroco",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/MrPugDog",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/Muffin",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/PoolFlamingo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/r2dog2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/Red_Squirrel",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/UtyaDuck",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/WallyOwl",
+        "order": 1
+      },
+      {
+        "pack": "stickers/telegram/WolfAlpha",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Anime",
+    "order": 3,
+    "path": "stickers/anime",
+    "packs": [
+      {
+        "pack": "stickers/anime/AnimeLove",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/AnimeSet1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/AnimeSet2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/AnimeSet3",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/AnimeSet4",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/DoraemonStickersOne",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/DoraemonStickersTwo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/DotoriKorean",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/DragonBallFour",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/DragonBallOne",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/DragonBallThree",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/DragonBallTwo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/HimoutoUmaruChan",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/KPopStickers",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/Mickey_Mouse",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/NarutoTwo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/OnePunchMan",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/ReZero",
+        "order": 1
+      },
+      {
+        "pack": "stickers/anime/ShinChan",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Kpop",
+    "order": 4,
+    "path": "stickers/kpop",
+    "packs": [
+      {
+        "pack": "stickers/kpop/BangtanBoys",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/BlackPinkOne",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/BlackPinkTwo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/CuteFox",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/DotoriKorean",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/ExoBand",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/IkonBand",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/KPopStickers",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/TwiceBandFour",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/TwiceBandOne",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/TwiceBandThree",
+        "order": 1
+      },
+      {
+        "pack": "stickers/kpop/TwiceBandTwo",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "LOL",
+    "order": 5,
+    "path": "stickers/lol",
+    "packs": [
+      {
+        "pack": "stickers/lol/2PD34P",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/3D9L7M",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/3EWKW9",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/3VTR3F",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/3WA4JN",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/6PGDMX",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/8Y2RNW",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/9J7JPZ",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/33AX99",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/58PN7J",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/A6SBB6",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/AGW4NF",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/BDNQQQ",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/BFSCJD",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/BT3YSD",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/C346TD",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/CYP4MC",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/DFHVNK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/DHDTC7",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/DS4RYG",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/E2CYCK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/F2XFPH",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/F5ZM9F",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/FGLYPC",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/FunnyMonkey",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/G9LXPK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/HFUA2L",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/LeagueOfLegends",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/LJAKQW",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/MrBean",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/MrFunnyBean",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/PNDVNE",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/PoopPack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/R3NKGU",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/RSZRP3",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/S5GA6U",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/U5D9WG",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/UBR9PJ",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/UGGFNJ",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/V7T3ZF",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/VB5XL6",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/WFSWQH",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/WMPL8R",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/WRM26B",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/WSDB99",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/X6XQEY",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/Y4QAGB",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/YGM3J9",
+        "order": 1
+      },
+      {
+        "pack": "stickers/lol/Z6T59B",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Animal",
+    "order": 6,
+    "path": "stickers/animals",
+    "packs": [
+      {
+        "pack": "stickers/animals/4NKQX6",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/5KG3UR",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/Aliens",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/AngryAnimals",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/Animals",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/CatFullMoon",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/CoolAnimals",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/CryingAnimals",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/CuteChicken",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/CuteOwls",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/EasterBunny",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/FunnyMonkey",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/GEDTSY",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/GeorgeThePenguin",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/GH68J3",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/HappyNumbers",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/HY2AD6",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/LittlePony",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/MachikoRabbit1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/MachikoRabbit2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/MachikoRabbit3",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/MachikoRabbit4",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/MeetThePugs",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/MonkeyEmojis",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/NTJTC4",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/PandaEmo",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/PandaEmojis",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/PenguinAct",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/REMYAK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/RXUKRU",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/SimonsCat",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/SpeakingAnimals",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/T6A7HR",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/VUEGGV",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/YetiSnowman",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/YME4ET",
+        "order": 1
+      },
+      {
+        "pack": "stickers/animals/YWBGLN",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Wishes",
+    "order": 7,
+    "path": "stickers/wishes",
+    "packs": [
+      {
+        "pack": "stickers/wishes/2NGYAR",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/4V6QC8",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/6YUVSE",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/7P76U7",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/85RJQW",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/AHJSQL",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/AnniversaryWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/AQJ2SQ",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/AUFKDF",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/BirthdayWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/BQ3WSS",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/C2V79R",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/ChristmasWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/FFBAPM",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/FRX9ZL",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/G4NQJK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/GoodNightPack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/Graduation",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/GujaratiWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/HA76RB",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/HappyPongal2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/HoliWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/HPX7QK",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/L4P74P",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/LohriWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/M5FAQP",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/M46P36",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/MiladunNabiWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/NB4D2L",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/NDH9VM",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/NewYear2022Wishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/NKS4V2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/PENLHP",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/Pongal",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/PongalWishes1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/PongalWishes2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/Q2RFAU",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/QN8839",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/QYATF4",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/RE2VJT",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/RQYVXG",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/RZJ2RX",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/U2XDLM",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/U7Y5LP",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/UT3M4S",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/V528RX",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/VHCVQX",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/W8KA9S",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/W8RKGF",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/WeekendWishes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/Wishes2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/WJE2X9",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/WXQ5XQ",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/XJHCEF",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/XPHWBW",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/Y9JME4",
+        "order": 1
+      },
+      {
+        "pack": "stickers/wishes/Y64J6R",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Mavel",
+    "order": 8,
+    "path": "stickers/marvel",
+    "packs": [
+      {
+        "pack": "stickers/marvel/SpidermanHomecoming",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/OnamSpecial",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/NCZ77F",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/Onam",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/MarvelStickers3",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/MarvelTrolls",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/MarvelStickers2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/MarvelStickers1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/DeadpoolSticker",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/DERLDD",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/CPREYA",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/AZBYRD",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/AvengersPack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/ARLBE4",
+        "order": 1
+      },
+      {
+        "pack": "stickers/marvel/AFNTCV",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Game",
+    "order": 9,
+    "path": "stickers/games",
+    "packs": [
+      {
+        "pack": "stickers/games/66A6CN",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/CounterStrike1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/CounterStrike2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/F3AAGP",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/Fortinite1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/Fortnite2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/GotCharacters",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/MinecraftPack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PokemonPack1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PokemonPack2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PokemonPack3",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PokemonPack4",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PokemonPack5",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PUBG3D",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PUBGCartoonPack",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PUBGMalayalam",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PUBGText",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PUBGVectorSet",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/PUBGWeapons",
+        "order": 1
+      },
+      {
+        "pack": "stickers/games/RU5C9D",
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Sport",
+    "order": 10,
+    "path": "stickers/sport",
+    "packs": [
+      {
+        "pack": "stickers/sport/6EZU29",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/7MJVVY",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/7MPR7E",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/9gagPopular",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/56T8KW",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/CQ4BAQ",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/CricketBatsmanSet",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/CricketersReaction",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/CricketersReaction2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/CricketPlayerMeme1",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/DNERC8",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/IndianCricketTeam",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/IPL2",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/LionelMessi",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/LQHCQ6",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/MotorBikes",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/NGB2DZ",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/NTMFY4",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/U3SUVV",
+        "order": 1
+      },
+      {
+        "pack": "stickers/sport/WWLEY2",
+        "order": 1
+      }
+    ]
+  }
 ]
