@@ -1,2318 +1,2316 @@
-{
-  "categories": [
-    {
-      "name": "Home",
-      "order": 1,
-      "path": "stickers/home",
-      "packs": [
-        {
-          "name": "BTS Reactions 1",
-          "packPath": "stickers/home/2R7DUT",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Animated emojis - Scared",
-          "packPath": "stickers/home/2SYUFT",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Rock",
-          "packPath": "stickers/home/3P4KAA",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Cute Love",
-          "packPath": "stickers/home/5FXES5",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "James bond",
-          "packPath": "stickers/home/6MS73U",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Animated emojis - Angry",
-          "packPath": "stickers/home/7DAMUN",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Pink panther",
-          "packPath": "stickers/home/9EQQ2H",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Batman Animated",
-          "packPath": "stickers/home/9NA7V9",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Sponge Bob",
-          "packPath": "stickers/home/62SBMK",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Demon slayer",
-          "packPath": "stickers/home/367EV9",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Malayalam Troll",
-          "packPath": "stickers/home/A8R83X",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Happy birthday",
-          "packPath": "stickers/home/AB4WQH",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "About You And Me",
-          "packPath": "stickers/home/AboutYouAndMe",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Aliens",
-          "packPath": "stickers/home/Aliens",
-          "count": 25,
-          "order": 1
-        },
-        {
-          "name": "Angry Animals",
-          "packPath": "stickers/home/AngryAnimals",
-          "count": 14,
-          "order": 1
-        },
-        {
-          "name": "Anime Chibi Boys",
-          "packPath": "stickers/home/AnimeChibiBoys",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Animoji",
-          "packPath": "stickers/home/Animoji",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Babies Animated",
-          "packPath": "stickers/home/BabiesAnimated",
-          "count": 25,
-          "order": 1
-        },
-        {
-          "name": "Best Bolly Expression",
-          "packPath": "stickers/home/BestBollyExpression",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Eren Yeager",
-          "packPath": "stickers/home/BHBUTY",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Birthday Cake",
-          "packPath": "stickers/home/BirthdayCake",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Birthday Wishes",
-          "packPath": "stickers/home/BirthdayWishes",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Black Pink Band 1",
-          "packPath": "stickers/home/BlackPinkOne",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Black Pink Band 2",
-          "packPath": "stickers/home/BlackPinkTwo",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Brazil Chat",
-          "packPath": "stickers/home/BrazilChat",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Brazil Chat 2",
-          "packPath": "stickers/home/BrazilChat2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Brazil Chat 3",
-          "packPath": "stickers/home/BrazilChat3",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Brazil Special",
-          "packPath": "stickers/home/BrazilSpecial",
-          "count": 12,
-          "order": 1
-        },
-        {
-          "name": "Jason stathem",
-          "packPath": "stickers/home/BSSSWA",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Animated emojis - Happy 2",
-          "packPath": "stickers/home/BWA5TX",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Cakes and Flowers",
-          "packPath": "stickers/home/CakesAndFlowers",
-          "count": 22,
-          "order": 1
-        },
-        {
-          "name": "Cat Dialogues",
-          "packPath": "stickers/home/CatDialogues",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Congratulations",
-          "packPath": "stickers/home/CongratulationsPack",
-          "count": 25,
-          "order": 1
-        },
-        {
-          "name": "CS:GO",
-          "packPath": "stickers/home/CounterStrike1",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "CS:GO 2",
-          "packPath": "stickers/home/CounterStrike2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Crying Animals",
-          "packPath": "stickers/home/CryingAnimals",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Cute Bears",
-          "packPath": "stickers/home/CuteBears",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Cute Couple",
-          "packPath": "stickers/home/CuteCouple",
-          "count": 12,
-          "order": 1
-        },
-        {
-          "name": "Cute Emoji Faces",
-          "packPath": "stickers/home/CuteEmojiFaces",
-          "count": 9,
-          "order": 1
-        },
-        {
-          "name": "Cute Owls",
-          "packPath": "stickers/home/CuteOwls",
-          "count": 9,
-          "order": 1
-        },
-        {
-          "name": "GTA V",
-          "packPath": "stickers/home/D784F5",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Dog Emoji",
-          "packPath": "stickers/home/DogEmoji",
-          "count": 8,
-          "order": 1
-        },
-        {
-          "name": "Dotori Korean",
-          "packPath": "stickers/home/DotoriKorean",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Dragon Ball 2",
-          "packPath": "stickers/home/DragonBallTwo",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "My Hero Academia 2",
-          "packPath": "stickers/home/EDKR3V",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Bollywood\u0027s Best",
-          "packPath": "stickers/home/EPYNHS",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "Exo Band",
-          "packPath": "stickers/home/ExoBand",
-          "count": 22,
-          "order": 1
-        },
-        {
-          "name": "Animated emojis - Hand",
-          "packPath": "stickers/home/F3Q9WH",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Desserts",
-          "packPath": "stickers/home/FoodDesserts",
-          "count": 22,
-          "order": 1
-        },
-        {
-          "name": "Food Emojis",
-          "packPath": "stickers/home/FoodEmojis",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Foodie",
-          "packPath": "stickers/home/Foodie",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "Fortnite",
-          "packPath": "stickers/home/Fortinite1",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Fortnite 2",
-          "packPath": "stickers/home/Fortnite2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Funny Monkey",
-          "packPath": "stickers/home/FunnyMonkey",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Good Morning",
-          "packPath": "stickers/home/GoodMorning",
-          "count": 14,
-          "order": 1
-        },
-        {
-          "name": "Good Night",
-          "packPath": "stickers/home/GoodNightPack",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Titanic",
-          "packPath": "stickers/home/GPYBJK",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Graduation Wishes",
-          "packPath": "stickers/home/Graduation",
-          "count": 9,
-          "order": 1
-        },
-        {
-          "name": "Happy Birthday",
-          "packPath": "stickers/home/HappyBirthday",
-          "count": 11,
-          "order": 1
-        },
-        {
-          "name": "Happy Sunday",
-          "packPath": "stickers/home/HappySunday",
-          "count": 10,
-          "order": 1
-        },
-        {
-          "name": "Heart Emoji",
-          "packPath": "stickers/home/HeartEmoji",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Jujutsu Kaisen",
-          "packPath": "stickers/home/HGVFUA",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Hi Bye Text",
-          "packPath": "stickers/home/HiByePack",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Hugemoji",
-          "packPath": "stickers/home/Hugemoji",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Popsicles",
-          "packPath": "stickers/home/IcePopsicles",
-          "count": 6,
-          "order": 1
-        },
-        {
-          "name": "iKON Band",
-          "packPath": "stickers/home/IkonBand",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Indonesia Chat",
-          "packPath": "stickers/home/IndonesiaChat1",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Indonesia Chat 2",
-          "packPath": "stickers/home/IndonesiaChat2",
-          "count": 28,
-          "order": 1
-        },
-        {
-          "name": "Indonesia Chat 3",
-          "packPath": "stickers/home/IndonesiaChat3",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Indonesia Chat 5",
-          "packPath": "stickers/home/IndonesiaChat5",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Jinmiran Animated",
-          "packPath": "stickers/home/JinmiranAnimated",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Wednesday",
-          "packPath": "stickers/home/JP86BM",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Keep Calm",
-          "packPath": "stickers/home/KeepCalm",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "KPOP Stickers",
-          "packPath": "stickers/home/KPopStickers",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Black Pink",
-          "packPath": "stickers/home/KZ824K",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Lazy Morning",
-          "packPath": "stickers/home/LazyMorning",
-          "count": 6,
-          "order": 1
-        },
-        {
-          "name": "League of Legends",
-          "packPath": "stickers/home/LeagueOfLegends",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Love Love",
-          "packPath": "stickers/home/LoveLove",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Lovely Story",
-          "packPath": "stickers/home/LovelyStory",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Lovers",
-          "packPath": "stickers/home/Lovers",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Love You",
-          "packPath": "stickers/home/LoveYou",
-          "count": 21,
-          "order": 1
-        },
-        {
-          "name": "Loving Couples",
-          "packPath": "stickers/home/LovingCouples",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Malayalam Chat",
-          "packPath": "stickers/home/MalayalamChat",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Meme Templates",
-          "packPath": "stickers/home/MemeTemplates",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Minecraft",
-          "packPath": "stickers/home/MinecraftPack",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "Monkey Emojis",
-          "packPath": "stickers/home/MonkeyEmojis",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Mr. Coffee",
-          "packPath": "stickers/home/MrCoffee",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Number Cakes",
-          "packPath": "stickers/home/NumberCakes",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "One Punch Man",
-          "packPath": "stickers/home/OnePunchMan",
-          "count": 14,
-          "order": 1
-        },
-        {
-          "name": "Outline Emojis",
-          "packPath": "stickers/home/OutlineEmojis",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Panda Emo",
-          "packPath": "stickers/home/PandaEmo",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "Panda",
-          "packPath": "stickers/home/PandaEmojis",
-          "count": 23,
-          "order": 1
-        },
-        {
-          "name": "Penguin",
-          "packPath": "stickers/home/PenguinAct",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Portuguese Chat",
-          "packPath": "stickers/home/PortugueseChat",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "One Punch Man 2",
-          "packPath": "stickers/home/RDNRQN",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Mine Craft",
-          "packPath": "stickers/home/SN44DK",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Sweet Family",
-          "packPath": "stickers/home/SweetFamily",
-          "count": 21,
-          "order": 1
-        },
-        {
-          "name": "Kiss",
-          "packPath": "stickers/home/T3LRNV",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Surprised",
-          "packPath": "stickers/home/T934YH",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Taarak Mehta TMKOC",
-          "packPath": "stickers/home/TaarakMehta",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Tamil Animated",
-          "packPath": "stickers/home/TamilAnimated",
-          "count": 21,
-          "order": 1
-        },
-        {
-          "name": "Thank You",
-          "packPath": "stickers/home/ThankYou2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Animated emojis - Happy 1",
-          "packPath": "stickers/home/TL6TTT",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "Twice Band Pack 1",
-          "packPath": "stickers/home/TwiceBandOne",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Twice Band Pack 2",
-          "packPath": "stickers/home/TwiceBandTwo",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Vegetables Emojis",
-          "packPath": "stickers/home/VegetableEmojis",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Congratulation",
-          "packPath": "stickers/home/W3C36K",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Weekend Wishes",
-          "packPath": "stickers/home/WeekendWishes",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Welcome Pack",
-          "packPath": "stickers/home/WelcomePack1",
-          "count": 28,
-          "order": 1
-        },
-        {
-          "name": "Welcome Pack",
-          "packPath": "stickers/home/WelcomePack2",
-          "count": 10,
-          "order": 1
-        },
-        {
-          "name": "Animated emojis - Sad",
-          "packPath": "stickers/home/X4YUYG",
-          "count": 23,
-          "order": 1
-        },
-        {
-          "name": "Jim Carrey",
-          "packPath": "stickers/home/XDYXE8",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Attack on Titan 2",
-          "packPath": "stickers/home/XNCJF5",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Paw Paw",
-          "packPath": "stickers/home/XP8STG",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Yellow Square Emojis",
-          "packPath": "stickers/home/YellowSquareEmojis",
-          "count": 9,
-          "order": 1
-        },
-        {
-          "name": "Yeti",
-          "packPath": "stickers/home/YetiSnowman",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Young Love",
-          "packPath": "stickers/home/YoungLove",
-          "count": 21,
-          "order": 1
-        },
-        {
-          "name": "Elon Musk",
-          "packPath": "stickers/home/ZVUUT9",
-          "count": 17,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "Telegram",
-      "order": 2,
-      "path": "stickers/telegram",
-      "packs": [
-        {
-          "name": "AmanitaPhalloides",
-          "packPath": "stickers/telegram/AmanitaPhalloides",
-          "count": 28,
-          "order": 1
-        },
-        {
-          "name": "AsianBunny",
-          "packPath": "stickers/telegram/AsianBunny",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "BettPage",
-          "packPath": "stickers/telegram/BettPage",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "BirdOfParadise",
-          "packPath": "stickers/telegram/BirdOfParadise",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "BobJellyfish",
-          "packPath": "stickers/telegram/BobJellyfish",
-          "count": 28,
-          "order": 1
-        },
-        {
-          "name": "BoysClub",
-          "packPath": "stickers/telegram/BoysClub",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Buddy_Bear",
-          "packPath": "stickers/telegram/Buddy_Bear",
-          "count": 28,
-          "order": 1
-        },
-        {
-          "name": "CaptainWhale",
-          "packPath": "stickers/telegram/CaptainWhale",
-          "count": 23,
-          "order": 1
-        },
-        {
-          "name": "CatCatCat",
-          "packPath": "stickers/telegram/CatCatCat",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Crocosaurus",
-          "packPath": "stickers/telegram/Crocosaurus",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "DebraZebra",
-          "packPath": "stickers/telegram/DebraZebra",
-          "count": 21,
-          "order": 1
-        },
-        {
-          "name": "FishPuffer",
-          "packPath": "stickers/telegram/FishPuffer",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "FoxyComrade",
-          "packPath": "stickers/telegram/FoxyComrade",
-          "count": 28,
-          "order": 1
-        },
-        {
-          "name": "HotCherry",
-          "packPath": "stickers/telegram/HotCherry",
-          "count": 34,
-          "order": 1
-        },
-        {
-          "name": "Ladybug",
-          "packPath": "stickers/telegram/Ladybug",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "LovelyPeachy",
-          "packPath": "stickers/telegram/LovelyPeachy",
-          "count": 23,
-          "order": 1
-        },
-        {
-          "name": "Miss_Bunny",
-          "packPath": "stickers/telegram/Miss_Bunny",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "MrCat",
-          "packPath": "stickers/telegram/MrCat",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "MrCroco",
-          "packPath": "stickers/telegram/MrCroco",
-          "count": 34,
-          "order": 1
-        },
-        {
-          "name": "MrPugDog",
-          "packPath": "stickers/telegram/MrPugDog",
-          "count": 22,
-          "order": 1
-        },
-        {
-          "name": "Muffin",
-          "packPath": "stickers/telegram/Muffin",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "PoolFlamingo",
-          "packPath": "stickers/telegram/PoolFlamingo",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "r2dog2",
-          "packPath": "stickers/telegram/r2dog2",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "Red_Squirrel",
-          "packPath": "stickers/telegram/Red_Squirrel",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "UtyaDuck",
-          "packPath": "stickers/telegram/UtyaDuck",
-          "count": 40,
-          "order": 1
-        },
-        {
-          "name": "WallyOwl",
-          "packPath": "stickers/telegram/WallyOwl",
-          "count": 33,
-          "order": 1
-        },
-        {
-          "name": "WolfAlpha",
-          "packPath": "stickers/telegram/WolfAlpha",
-          "count": 28,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "Anime",
-      "order": 3,
-      "path": "stickers/anime",
-      "packs": [
-        {
-          "name": "Anime Love",
-          "packPath": "stickers/anime/AnimeLove",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Anime Set 1",
-          "packPath": "stickers/anime/AnimeSet1",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Anime Set 2",
-          "packPath": "stickers/anime/AnimeSet2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Anime Set 3",
-          "packPath": "stickers/anime/AnimeSet3",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Anime Set 4",
-          "packPath": "stickers/anime/AnimeSet4",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Doraemon Stickers 1",
-          "packPath": "stickers/anime/DoraemonStickersOne",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Doraemon Stickers 2",
-          "packPath": "stickers/anime/DoraemonStickersTwo",
-          "count": 28,
-          "order": 1
-        },
-        {
-          "name": "Dotori Korean",
-          "packPath": "stickers/anime/DotoriKorean",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Dragon Ball 4",
-          "packPath": "stickers/anime/DragonBallFour",
-          "count": 22,
-          "order": 1
-        },
-        {
-          "name": "Dragon Ball 1",
-          "packPath": "stickers/anime/DragonBallOne",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Dragon Ball 3",
-          "packPath": "stickers/anime/DragonBallThree",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Dragon Ball 2",
-          "packPath": "stickers/anime/DragonBallTwo",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Himouto! Umaru-chan",
-          "packPath": "stickers/anime/HimoutoUmaruChan",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "KPOP Stickers",
-          "packPath": "stickers/anime/KPopStickers",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Mickey Mouse",
-          "packPath": "stickers/anime/Mickey_Mouse",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Naruto 2",
-          "packPath": "stickers/anime/NarutoTwo",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "One Punch Man",
-          "packPath": "stickers/anime/OnePunchMan",
-          "count": 14,
-          "order": 1
-        },
-        {
-          "name": "Re:Zero",
-          "packPath": "stickers/anime/ReZero",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Shin Chan",
-          "packPath": "stickers/anime/ShinChan",
-          "count": 25,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "Kpop",
-      "order": 4,
-      "path": "stickers/kpop",
-      "packs": [
-        {
-          "name": "Bangtan Boys",
-          "packPath": "stickers/kpop/BangtanBoys",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Black Pink Band 1",
-          "packPath": "stickers/kpop/BlackPinkOne",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Black Pink Band 2",
-          "packPath": "stickers/kpop/BlackPinkTwo",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Cute Fox",
-          "packPath": "stickers/kpop/CuteFox",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Dotori Korean",
-          "packPath": "stickers/kpop/DotoriKorean",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Exo Band",
-          "packPath": "stickers/kpop/ExoBand",
-          "count": 22,
-          "order": 1
-        },
-        {
-          "name": "iKON Band",
-          "packPath": "stickers/kpop/IkonBand",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "KPOP Stickers",
-          "packPath": "stickers/kpop/KPopStickers",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Twice Band Pack 4",
-          "packPath": "stickers/kpop/TwiceBandFour",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Twice Band Pack 1",
-          "packPath": "stickers/kpop/TwiceBandOne",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Twice Band Pack 3",
-          "packPath": "stickers/kpop/TwiceBandThree",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Twice Band Pack 2",
-          "packPath": "stickers/kpop/TwiceBandTwo",
-          "count": 30,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "LOL",
-      "order": 5,
-      "path": "stickers/lol",
-      "packs": [
-        {
-          "name": "Funny Cats (Bangla)",
-          "packPath": "stickers/lol/2PD34P",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "LOL reactions",
-          "packPath": "stickers/lol/3D9L7M",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bengali Daily Words",
-          "packPath": "stickers/lol/3EWKW9",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bengali Comedy Funny",
-          "packPath": "stickers/lol/3VTR3F",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Funny Bengali Memes",
-          "packPath": "stickers/lol/3WA4JN",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Quby funny bangla",
-          "packPath": "stickers/lol/6PGDMX",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bengali Dialogues",
-          "packPath": "stickers/lol/8Y2RNW",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "LOL Stickers",
-          "packPath": "stickers/lol/9J7JPZ",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bangla Movie Dialogues",
-          "packPath": "stickers/lol/33AX99",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Boss Baby",
-          "packPath": "stickers/lol/58PN7J",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bibaho Obhijaan",
-          "packPath": "stickers/lol/A6SBB6",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Shin Chan",
-          "packPath": "stickers/lol/AGW4NF",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Doraemon Stickers",
-          "packPath": "stickers/lol/BDNQQQ",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Random Cartoon Bengali",
-          "packPath": "stickers/lol/BFSCJD",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Golmaal Movie",
-          "packPath": "stickers/lol/BT3YSD",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Cheems doge and more",
-          "packPath": "stickers/lol/C346TD",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bengali Funny Memes",
-          "packPath": "stickers/lol/CYP4MC",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Fokinni stickers",
-          "packPath": "stickers/lol/DFHVNK",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "😂 Pack Special",
-          "packPath": "stickers/lol/DHDTC7",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bangla funny stickers",
-          "packPath": "stickers/lol/DS4RYG",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Rajpal Yadav Bengali",
-          "packPath": "stickers/lol/E2CYCK",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Mr Bean funny",
-          "packPath": "stickers/lol/F2XFPH",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Funny Quby",
-          "packPath": "stickers/lol/F5ZM9F",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Funny Stickers Bangla 1",
-          "packPath": "stickers/lol/FGLYPC",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Funny Monkey",
-          "packPath": "stickers/lol/FunnyMonkey",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Funny Reactions (Bengali)",
-          "packPath": "stickers/lol/G9LXPK",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Funny Bengali",
-          "packPath": "stickers/lol/HFUA2L",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "League of Legends",
-          "packPath": "stickers/lol/LeagueOfLegends",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Dhaamaal",
-          "packPath": "stickers/lol/LJAKQW",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Mr. Bean",
-          "packPath": "stickers/lol/MrBean",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Mr Funny Bean",
-          "packPath": "stickers/lol/MrFunnyBean",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Pink Panther Bangla",
-          "packPath": "stickers/lol/PNDVNE",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Poop Stickers",
-          "packPath": "stickers/lol/PoopPack",
-          "count": 6,
-          "order": 1
-        },
-        {
-          "name": "Bengali Words",
-          "packPath": "stickers/lol/R3NKGU",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Funny Politician",
-          "packPath": "stickers/lol/RSZRP3",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "LOL memes",
-          "packPath": "stickers/lol/S5GA6U",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bengali Dialogues new",
-          "packPath": "stickers/lol/U5D9WG",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Random Funny bengali memes",
-          "packPath": "stickers/lol/UBR9PJ",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bangla Text Slangs",
-          "packPath": "stickers/lol/UGGFNJ",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Doraemon Bangla",
-          "packPath": "stickers/lol/V7T3ZF",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bankura Memes",
-          "packPath": "stickers/lol/VB5XL6",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Youtube memes",
-          "packPath": "stickers/lol/WFSWQH",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bengali Slangs 2",
-          "packPath": "stickers/lol/WMPL8R",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Nonte Fonte",
-          "packPath": "stickers/lol/WRM26B",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Pagglait",
-          "packPath": "stickers/lol/WSDB99",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Baankura Memes",
-          "packPath": "stickers/lol/X6XQEY",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "samantha lol",
-          "packPath": "stickers/lol/Y4QAGB",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Roddur Roy",
-          "packPath": "stickers/lol/YGM3J9",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bangla Memes",
-          "packPath": "stickers/lol/Z6T59B",
-          "count": 15,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "Animal",
-      "order": 6,
-      "path": "stickers/animals",
-      "packs": [
-        {
-          "name": "Tommy Memes",
-          "packPath": "stickers/animals/4NKQX6",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Zootopia",
-          "packPath": "stickers/animals/5KG3UR",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Aliens",
-          "packPath": "stickers/animals/Aliens",
-          "count": 25,
-          "order": 1
-        },
-        {
-          "name": "Angry Animals",
-          "packPath": "stickers/animals/AngryAnimals",
-          "count": 14,
-          "order": 1
-        },
-        {
-          "name": "Animals",
-          "packPath": "stickers/animals/Animals",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Cat Full Moon",
-          "packPath": "stickers/animals/CatFullMoon",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Cool Animals",
-          "packPath": "stickers/animals/CoolAnimals",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Crying Animals",
-          "packPath": "stickers/animals/CryingAnimals",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Cute Chicken",
-          "packPath": "stickers/animals/CuteChicken",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Cute Owls",
-          "packPath": "stickers/animals/CuteOwls",
-          "count": 9,
-          "order": 1
-        },
-        {
-          "name": "Easter Bunny",
-          "packPath": "stickers/animals/EasterBunny",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Funny Monkey",
-          "packPath": "stickers/animals/FunnyMonkey",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Trending Doge Part 6",
-          "packPath": "stickers/animals/GEDTSY",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "George The Penguin",
-          "packPath": "stickers/animals/GeorgeThePenguin",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Funny Memes",
-          "packPath": "stickers/animals/GH68J3",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Happy Numbers",
-          "packPath": "stickers/animals/HappyNumbers",
-          "count": 10,
-          "order": 1
-        },
-        {
-          "name": "Funny Animals",
-          "packPath": "stickers/animals/HY2AD6",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Little Pony",
-          "packPath": "stickers/animals/LittlePony",
-          "count": 25,
-          "order": 1
-        },
-        {
-          "name": "Machiko Rabbit 1",
-          "packPath": "stickers/animals/MachikoRabbit1",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Machiko Rabbit 2",
-          "packPath": "stickers/animals/MachikoRabbit2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Machiko Rabbit 3",
-          "packPath": "stickers/animals/MachikoRabbit3",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Machiko Rabbit 4",
-          "packPath": "stickers/animals/MachikoRabbit4",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Meet The Pugs",
-          "packPath": "stickers/animals/MeetThePugs",
-          "count": 12,
-          "order": 1
-        },
-        {
-          "name": "Monkey Emojis",
-          "packPath": "stickers/animals/MonkeyEmojis",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Funny Mew",
-          "packPath": "stickers/animals/NTJTC4",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Panda Emo",
-          "packPath": "stickers/animals/PandaEmo",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "Panda",
-          "packPath": "stickers/animals/PandaEmojis",
-          "count": 23,
-          "order": 1
-        },
-        {
-          "name": "Penguin",
-          "packPath": "stickers/animals/PenguinAct",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Penguins of Madagascar",
-          "packPath": "stickers/animals/REMYAK",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Ice age",
-          "packPath": "stickers/animals/RXUKRU",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Simons Cat",
-          "packPath": "stickers/animals/SimonsCat",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Speaking Animals",
-          "packPath": "stickers/animals/SpeakingAnimals",
-          "count": 21,
-          "order": 1
-        },
-        {
-          "name": "Cat Collection Odia",
-          "packPath": "stickers/animals/T6A7HR",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Trending Doge Part 4",
-          "packPath": "stickers/animals/VUEGGV",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Yeti",
-          "packPath": "stickers/animals/YetiSnowman",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Trending Doge Part 5",
-          "packPath": "stickers/animals/YME4ET",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Funny Tigers",
-          "packPath": "stickers/animals/YWBGLN",
-          "count": 15,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "Wishes",
-      "order": 7,
-      "path": "stickers/wishes",
-      "packs": [
-        {
-          "name": "Happy Republic Day",
-          "packPath": "stickers/wishes/2NGYAR",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "New Year Wishes (Kannada)",
-          "packPath": "stickers/wishes/4V6QC8",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Bhogi",
-          "packPath": "stickers/wishes/6YUVSE",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Baisakhi Wishes",
-          "packPath": "stickers/wishes/7P76U7",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Republic Day",
-          "packPath": "stickers/wishes/85RJQW",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Diwali Wishes Kannada",
-          "packPath": "stickers/wishes/AHJSQL",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Anniversary Wishes",
-          "packPath": "stickers/wishes/AnniversaryWishes",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "Republic Day Wishes",
-          "packPath": "stickers/wishes/AQJ2SQ",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Holi",
-          "packPath": "stickers/wishes/AUFKDF",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Birthday Wishes",
-          "packPath": "stickers/wishes/BirthdayWishes",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Labour day wishes",
-          "packPath": "stickers/wishes/BQ3WSS",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Happy Holi",
-          "packPath": "stickers/wishes/C2V79R",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Christmas Wishes",
-          "packPath": "stickers/wishes/ChristmasWishes",
-          "count": 14,
-          "order": 1
-        },
-        {
-          "name": "Diwali Wishes",
-          "packPath": "stickers/wishes/FFBAPM",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Independence Day Wishes",
-          "packPath": "stickers/wishes/FRX9ZL",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Makar Sankranti",
-          "packPath": "stickers/wishes/G4NQJK",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Good Night",
-          "packPath": "stickers/wishes/GoodNightPack",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Graduation Wishes",
-          "packPath": "stickers/wishes/Graduation",
-          "count": 9,
-          "order": 1
-        },
-        {
-          "name": "Gujarati Wishes",
-          "packPath": "stickers/wishes/GujaratiWishes",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Lohri Festival Wishes",
-          "packPath": "stickers/wishes/HA76RB",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Happy Pongal",
-          "packPath": "stickers/wishes/HappyPongal2",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Holi Wishes",
-          "packPath": "stickers/wishes/HoliWishes",
-          "count": 22,
-          "order": 1
-        },
-        {
-          "name": "Gandhi Jayanti",
-          "packPath": "stickers/wishes/HPX7QK",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Independence Day Wish 1",
-          "packPath": "stickers/wishes/L4P74P",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Lohri Wishes",
-          "packPath": "stickers/wishes/LohriWishes",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Holi Stickers",
-          "packPath": "stickers/wishes/M5FAQP",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Republic Day",
-          "packPath": "stickers/wishes/M46P36",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Milad un Nabi Wishes",
-          "packPath": "stickers/wishes/MiladunNabiWishes",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Christmas Kannada Wishes",
-          "packPath": "stickers/wishes/NB4D2L",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Mothers Day Wishes",
-          "packPath": "stickers/wishes/NDH9VM",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "New Year Wishes 2022",
-          "packPath": "stickers/wishes/NewYear2022Wishes",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Daily Wishes",
-          "packPath": "stickers/wishes/NKS4V2",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Wishes Pack 1",
-          "packPath": "stickers/wishes/PENLHP",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Pongal",
-          "packPath": "stickers/wishes/Pongal",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Pongal Wishes 1",
-          "packPath": "stickers/wishes/PongalWishes1",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Pongal Wishes 2",
-          "packPath": "stickers/wishes/PongalWishes2",
-          "count": 19,
-          "order": 1
-        },
-        {
-          "name": "Independence Day Wishes",
-          "packPath": "stickers/wishes/Q2RFAU",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "New Year Wishes",
-          "packPath": "stickers/wishes/QN8839",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Gandhi Jayanti",
-          "packPath": "stickers/wishes/QYATF4",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Wishes Pack 2",
-          "packPath": "stickers/wishes/RE2VJT",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Children\u0027s Day Wishes (Kannada)",
-          "packPath": "stickers/wishes/RQYVXG",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Diwali Wishes",
-          "packPath": "stickers/wishes/RZJ2RX",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Labour day wishes",
-          "packPath": "stickers/wishes/U2XDLM",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Makar Sankranti Wishes",
-          "packPath": "stickers/wishes/U7Y5LP",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Sankranti Festival Wishes",
-          "packPath": "stickers/wishes/UT3M4S",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Wishes",
-          "packPath": "stickers/wishes/V528RX",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Ramzan Wishes",
-          "packPath": "stickers/wishes/VHCVQX",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Holi Wish",
-          "packPath": "stickers/wishes/W8KA9S",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "Wishes From Flowers",
-          "packPath": "stickers/wishes/W8RKGF",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Weekend Wishes",
-          "packPath": "stickers/wishes/WeekendWishes",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Wishes 2",
-          "packPath": "stickers/wishes/Wishes2",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Uthradam Wishes",
-          "packPath": "stickers/wishes/WJE2X9",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Gandhi Jayanti",
-          "packPath": "stickers/wishes/WXQ5XQ",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Ramzan Wishes 1",
-          "packPath": "stickers/wishes/XJHCEF",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Onam wishes",
-          "packPath": "stickers/wishes/XPHWBW",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Happy Vishu",
-          "packPath": "stickers/wishes/Y9JME4",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Happy Birth Day",
-          "packPath": "stickers/wishes/Y64J6R",
-          "count": 16,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "Mavel",
-      "order": 8,
-      "path": "stickers/marvel",
-      "packs": [
-        {
-          "name": "Spiderman Homecoming",
-          "packPath": "stickers/marvel/SpidermanHomecoming",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Onam Special",
-          "packPath": "stickers/marvel/OnamSpecial",
-          "count": 14,
-          "order": 1
-        },
-        {
-          "name": "Happy Onam",
-          "packPath": "stickers/marvel/NCZ77F",
-          "count": 18,
-          "order": 1
-        },
-        {
-          "name": "Onam",
-          "packPath": "stickers/marvel/Onam",
-          "count": 12,
-          "order": 1
-        },
-        {
-          "name": "Marvel Stickers 3",
-          "packPath": "stickers/marvel/MarvelStickers3",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Marvel Trolls",
-          "packPath": "stickers/marvel/MarvelTrolls",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Marvel Stickers 2",
-          "packPath": "stickers/marvel/MarvelStickers2",
-          "count": 28,
-          "order": 1
-        },
-        {
-          "name": "Marvel Stickers 1",
-          "packPath": "stickers/marvel/MarvelStickers1",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Deadpool 1",
-          "packPath": "stickers/marvel/DeadpoolSticker",
-          "count": 14,
-          "order": 1
-        },
-        {
-          "name": "girls friendship goals",
-          "packPath": "stickers/marvel/DERLDD",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Marvel Avengers",
-          "packPath": "stickers/marvel/CPREYA",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Happy Onam",
-          "packPath": "stickers/marvel/AZBYRD",
-          "count": 20,
-          "order": 1
-        },
-        {
-          "name": "Avengers",
-          "packPath": "stickers/marvel/AvengersPack",
-          "count": 17,
-          "order": 1
-        },
-        {
-          "name": "Crazy kanmani",
-          "packPath": "stickers/marvel/ARLBE4",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "boys friendship goals",
-          "packPath": "stickers/marvel/AFNTCV",
-          "count": 15,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "Game",
-      "order": 9,
-      "path": "stickers/games",
-      "packs": [
-        {
-          "name": "Puneeth Rajkumar",
-          "packPath": "stickers/games/66A6CN",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "CS:GO",
-          "packPath": "stickers/games/CounterStrike1",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "CS:GO 2",
-          "packPath": "stickers/games/CounterStrike2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "PUBG",
-          "packPath": "stickers/games/F3AAGP",
-          "count": 15,
-          "order": 1
-        },
-        {
-          "name": "Fortnite",
-          "packPath": "stickers/games/Fortinite1",
-          "count": 29,
-          "order": 1
-        },
-        {
-          "name": "Fortnite 2",
-          "packPath": "stickers/games/Fortnite2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "GOT Characters",
-          "packPath": "stickers/games/GotCharacters",
-          "count": 24,
-          "order": 1
-        },
-        {
-          "name": "Minecraft",
-          "packPath": "stickers/games/MinecraftPack",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "Pokemon 1 of 5",
-          "packPath": "stickers/games/PokemonPack1",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Pokemon 2 of 5",
-          "packPath": "stickers/games/PokemonPack2",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Pokemon 3 of 5",
-          "packPath": "stickers/games/PokemonPack3",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Pokemon 4 of 5",
-          "packPath": "stickers/games/PokemonPack4",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "Pokemon 5 of 5",
-          "packPath": "stickers/games/PokemonPack5",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "PUBG 3D set",
-          "packPath": "stickers/games/PUBG3D",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "PUBG Cartoon Pack",
-          "packPath": "stickers/games/PUBGCartoonPack",
-          "count": 30,
-          "order": 1
-        },
-        {
-          "name": "PUBG Malayalam",
-          "packPath": "stickers/games/PUBGMalayalam",
-          "count": 26,
-          "order": 1
-        },
-        {
-          "name": "PUBG Text",
-          "packPath": "stickers/games/PUBGText",
-          "count": 21,
-          "order": 1
-        },
-        {
-          "name": "PUBG Vector Set",
-          "packPath": "stickers/games/PUBGVectorSet",
-          "count": 16,
-          "order": 1
-        },
-        {
-          "name": "PUBG Weapons",
-          "packPath": "stickers/games/PUBGWeapons",
-          "count": 27,
-          "order": 1
-        },
-        {
-          "name": "Animated movie posters 2",
-          "packPath": "stickers/games/RU5C9D",
-          "count": 17,
-          "order": 1
-        }
-      ]
-    },
-    {
-      "name": "Sport",
-      "order": 10,
-      "path": "stickers/sport",
-      "packs": [
-        {
-          "name": "6EZU29",
-          "packPath": "stickers/sport/6EZU29",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "7MJVVY",
-          "packPath": "stickers/sport/7MJVVY",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "7MPR7E",
-          "packPath": "stickers/sport/7MPR7E",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "9gagPopular",
-          "packPath": "stickers/sport/9gagPopular",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "56T8KW",
-          "packPath": "stickers/sport/56T8KW",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "CQ4BAQ",
-          "packPath": "stickers/sport/CQ4BAQ",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "CricketBatsmanSet",
-          "packPath": "stickers/sport/CricketBatsmanSet",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "CricketersReaction",
-          "packPath": "stickers/sport/CricketersReaction",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "CricketersReaction2",
-          "packPath": "stickers/sport/CricketersReaction2",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "CricketPlayerMeme1",
-          "packPath": "stickers/sport/CricketPlayerMeme1",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "DNERC8",
-          "packPath": "stickers/sport/DNERC8",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "IndianCricketTeam",
-          "packPath": "stickers/sport/IndianCricketTeam",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "IPL2",
-          "packPath": "stickers/sport/IPL2",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "LionelMessi",
-          "packPath": "stickers/sport/LionelMessi",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "LQHCQ6",
-          "packPath": "stickers/sport/LQHCQ6",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "MotorBikes",
-          "packPath": "stickers/sport/MotorBikes",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "NGB2DZ",
-          "packPath": "stickers/sport/NGB2DZ",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "NTMFY4",
-          "packPath": "stickers/sport/NTMFY4",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "U3SUVV",
-          "packPath": "stickers/sport/U3SUVV",
-          "count": 0,
-          "order": 1
-        },
-        {
-          "name": "WWLEY2",
-          "packPath": "stickers/sport/WWLEY2",
-          "count": 0,
-          "order": 1
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Home",
+    "order": 1,
+    "path": "stickers/home",
+    "packs": [
+      {
+        "name": "BTS Reactions 1",
+        "packPath": "stickers/home/2R7DUT",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Animated emojis - Scared",
+        "packPath": "stickers/home/2SYUFT",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Rock",
+        "packPath": "stickers/home/3P4KAA",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Cute Love",
+        "packPath": "stickers/home/5FXES5",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "James bond",
+        "packPath": "stickers/home/6MS73U",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Animated emojis - Angry",
+        "packPath": "stickers/home/7DAMUN",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Pink panther",
+        "packPath": "stickers/home/9EQQ2H",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Batman Animated",
+        "packPath": "stickers/home/9NA7V9",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Sponge Bob",
+        "packPath": "stickers/home/62SBMK",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Demon slayer",
+        "packPath": "stickers/home/367EV9",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Malayalam Troll",
+        "packPath": "stickers/home/A8R83X",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Happy birthday",
+        "packPath": "stickers/home/AB4WQH",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "About You And Me",
+        "packPath": "stickers/home/AboutYouAndMe",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Aliens",
+        "packPath": "stickers/home/Aliens",
+        "count": 25,
+        "order": 1
+      },
+      {
+        "name": "Angry Animals",
+        "packPath": "stickers/home/AngryAnimals",
+        "count": 14,
+        "order": 1
+      },
+      {
+        "name": "Anime Chibi Boys",
+        "packPath": "stickers/home/AnimeChibiBoys",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Animoji",
+        "packPath": "stickers/home/Animoji",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Babies Animated",
+        "packPath": "stickers/home/BabiesAnimated",
+        "count": 25,
+        "order": 1
+      },
+      {
+        "name": "Best Bolly Expression",
+        "packPath": "stickers/home/BestBollyExpression",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Eren Yeager",
+        "packPath": "stickers/home/BHBUTY",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Birthday Cake",
+        "packPath": "stickers/home/BirthdayCake",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Birthday Wishes",
+        "packPath": "stickers/home/BirthdayWishes",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Black Pink Band 1",
+        "packPath": "stickers/home/BlackPinkOne",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Black Pink Band 2",
+        "packPath": "stickers/home/BlackPinkTwo",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Brazil Chat",
+        "packPath": "stickers/home/BrazilChat",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Brazil Chat 2",
+        "packPath": "stickers/home/BrazilChat2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Brazil Chat 3",
+        "packPath": "stickers/home/BrazilChat3",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Brazil Special",
+        "packPath": "stickers/home/BrazilSpecial",
+        "count": 12,
+        "order": 1
+      },
+      {
+        "name": "Jason stathem",
+        "packPath": "stickers/home/BSSSWA",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Animated emojis - Happy 2",
+        "packPath": "stickers/home/BWA5TX",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Cakes and Flowers",
+        "packPath": "stickers/home/CakesAndFlowers",
+        "count": 22,
+        "order": 1
+      },
+      {
+        "name": "Cat Dialogues",
+        "packPath": "stickers/home/CatDialogues",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Congratulations",
+        "packPath": "stickers/home/CongratulationsPack",
+        "count": 25,
+        "order": 1
+      },
+      {
+        "name": "CS:GO",
+        "packPath": "stickers/home/CounterStrike1",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "CS:GO 2",
+        "packPath": "stickers/home/CounterStrike2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Crying Animals",
+        "packPath": "stickers/home/CryingAnimals",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Cute Bears",
+        "packPath": "stickers/home/CuteBears",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Cute Couple",
+        "packPath": "stickers/home/CuteCouple",
+        "count": 12,
+        "order": 1
+      },
+      {
+        "name": "Cute Emoji Faces",
+        "packPath": "stickers/home/CuteEmojiFaces",
+        "count": 9,
+        "order": 1
+      },
+      {
+        "name": "Cute Owls",
+        "packPath": "stickers/home/CuteOwls",
+        "count": 9,
+        "order": 1
+      },
+      {
+        "name": "GTA V",
+        "packPath": "stickers/home/D784F5",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Dog Emoji",
+        "packPath": "stickers/home/DogEmoji",
+        "count": 8,
+        "order": 1
+      },
+      {
+        "name": "Dotori Korean",
+        "packPath": "stickers/home/DotoriKorean",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Dragon Ball 2",
+        "packPath": "stickers/home/DragonBallTwo",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "My Hero Academia 2",
+        "packPath": "stickers/home/EDKR3V",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Bollywood\u0027s Best",
+        "packPath": "stickers/home/EPYNHS",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "Exo Band",
+        "packPath": "stickers/home/ExoBand",
+        "count": 22,
+        "order": 1
+      },
+      {
+        "name": "Animated emojis - Hand",
+        "packPath": "stickers/home/F3Q9WH",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Desserts",
+        "packPath": "stickers/home/FoodDesserts",
+        "count": 22,
+        "order": 1
+      },
+      {
+        "name": "Food Emojis",
+        "packPath": "stickers/home/FoodEmojis",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Foodie",
+        "packPath": "stickers/home/Foodie",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "Fortnite",
+        "packPath": "stickers/home/Fortinite1",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Fortnite 2",
+        "packPath": "stickers/home/Fortnite2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Funny Monkey",
+        "packPath": "stickers/home/FunnyMonkey",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Good Morning",
+        "packPath": "stickers/home/GoodMorning",
+        "count": 14,
+        "order": 1
+      },
+      {
+        "name": "Good Night",
+        "packPath": "stickers/home/GoodNightPack",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Titanic",
+        "packPath": "stickers/home/GPYBJK",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Graduation Wishes",
+        "packPath": "stickers/home/Graduation",
+        "count": 9,
+        "order": 1
+      },
+      {
+        "name": "Happy Birthday",
+        "packPath": "stickers/home/HappyBirthday",
+        "count": 11,
+        "order": 1
+      },
+      {
+        "name": "Happy Sunday",
+        "packPath": "stickers/home/HappySunday",
+        "count": 10,
+        "order": 1
+      },
+      {
+        "name": "Heart Emoji",
+        "packPath": "stickers/home/HeartEmoji",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Jujutsu Kaisen",
+        "packPath": "stickers/home/HGVFUA",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Hi Bye Text",
+        "packPath": "stickers/home/HiByePack",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Hugemoji",
+        "packPath": "stickers/home/Hugemoji",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Popsicles",
+        "packPath": "stickers/home/IcePopsicles",
+        "count": 6,
+        "order": 1
+      },
+      {
+        "name": "iKON Band",
+        "packPath": "stickers/home/IkonBand",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Indonesia Chat",
+        "packPath": "stickers/home/IndonesiaChat1",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Indonesia Chat 2",
+        "packPath": "stickers/home/IndonesiaChat2",
+        "count": 28,
+        "order": 1
+      },
+      {
+        "name": "Indonesia Chat 3",
+        "packPath": "stickers/home/IndonesiaChat3",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Indonesia Chat 5",
+        "packPath": "stickers/home/IndonesiaChat5",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Jinmiran Animated",
+        "packPath": "stickers/home/JinmiranAnimated",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Wednesday",
+        "packPath": "stickers/home/JP86BM",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Keep Calm",
+        "packPath": "stickers/home/KeepCalm",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "KPOP Stickers",
+        "packPath": "stickers/home/KPopStickers",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Black Pink",
+        "packPath": "stickers/home/KZ824K",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Lazy Morning",
+        "packPath": "stickers/home/LazyMorning",
+        "count": 6,
+        "order": 1
+      },
+      {
+        "name": "League of Legends",
+        "packPath": "stickers/home/LeagueOfLegends",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Love Love",
+        "packPath": "stickers/home/LoveLove",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Lovely Story",
+        "packPath": "stickers/home/LovelyStory",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Lovers",
+        "packPath": "stickers/home/Lovers",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Love You",
+        "packPath": "stickers/home/LoveYou",
+        "count": 21,
+        "order": 1
+      },
+      {
+        "name": "Loving Couples",
+        "packPath": "stickers/home/LovingCouples",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Malayalam Chat",
+        "packPath": "stickers/home/MalayalamChat",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Meme Templates",
+        "packPath": "stickers/home/MemeTemplates",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Minecraft",
+        "packPath": "stickers/home/MinecraftPack",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "Monkey Emojis",
+        "packPath": "stickers/home/MonkeyEmojis",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Mr. Coffee",
+        "packPath": "stickers/home/MrCoffee",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Number Cakes",
+        "packPath": "stickers/home/NumberCakes",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "One Punch Man",
+        "packPath": "stickers/home/OnePunchMan",
+        "count": 14,
+        "order": 1
+      },
+      {
+        "name": "Outline Emojis",
+        "packPath": "stickers/home/OutlineEmojis",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Panda Emo",
+        "packPath": "stickers/home/PandaEmo",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "Panda",
+        "packPath": "stickers/home/PandaEmojis",
+        "count": 23,
+        "order": 1
+      },
+      {
+        "name": "Penguin",
+        "packPath": "stickers/home/PenguinAct",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Portuguese Chat",
+        "packPath": "stickers/home/PortugueseChat",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "One Punch Man 2",
+        "packPath": "stickers/home/RDNRQN",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Mine Craft",
+        "packPath": "stickers/home/SN44DK",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Sweet Family",
+        "packPath": "stickers/home/SweetFamily",
+        "count": 21,
+        "order": 1
+      },
+      {
+        "name": "Kiss",
+        "packPath": "stickers/home/T3LRNV",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Surprised",
+        "packPath": "stickers/home/T934YH",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Taarak Mehta TMKOC",
+        "packPath": "stickers/home/TaarakMehta",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Tamil Animated",
+        "packPath": "stickers/home/TamilAnimated",
+        "count": 21,
+        "order": 1
+      },
+      {
+        "name": "Thank You",
+        "packPath": "stickers/home/ThankYou2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Animated emojis - Happy 1",
+        "packPath": "stickers/home/TL6TTT",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "Twice Band Pack 1",
+        "packPath": "stickers/home/TwiceBandOne",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Twice Band Pack 2",
+        "packPath": "stickers/home/TwiceBandTwo",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Vegetables Emojis",
+        "packPath": "stickers/home/VegetableEmojis",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Congratulation",
+        "packPath": "stickers/home/W3C36K",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Weekend Wishes",
+        "packPath": "stickers/home/WeekendWishes",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Welcome Pack",
+        "packPath": "stickers/home/WelcomePack1",
+        "count": 28,
+        "order": 1
+      },
+      {
+        "name": "Welcome Pack",
+        "packPath": "stickers/home/WelcomePack2",
+        "count": 10,
+        "order": 1
+      },
+      {
+        "name": "Animated emojis - Sad",
+        "packPath": "stickers/home/X4YUYG",
+        "count": 23,
+        "order": 1
+      },
+      {
+        "name": "Jim Carrey",
+        "packPath": "stickers/home/XDYXE8",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Attack on Titan 2",
+        "packPath": "stickers/home/XNCJF5",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Paw Paw",
+        "packPath": "stickers/home/XP8STG",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Yellow Square Emojis",
+        "packPath": "stickers/home/YellowSquareEmojis",
+        "count": 9,
+        "order": 1
+      },
+      {
+        "name": "Yeti",
+        "packPath": "stickers/home/YetiSnowman",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Young Love",
+        "packPath": "stickers/home/YoungLove",
+        "count": 21,
+        "order": 1
+      },
+      {
+        "name": "Elon Musk",
+        "packPath": "stickers/home/ZVUUT9",
+        "count": 17,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Telegram",
+    "order": 2,
+    "path": "stickers/telegram",
+    "packs": [
+      {
+        "name": "AmanitaPhalloides",
+        "packPath": "stickers/telegram/AmanitaPhalloides",
+        "count": 28,
+        "order": 1
+      },
+      {
+        "name": "AsianBunny",
+        "packPath": "stickers/telegram/AsianBunny",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "BettPage",
+        "packPath": "stickers/telegram/BettPage",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "BirdOfParadise",
+        "packPath": "stickers/telegram/BirdOfParadise",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "BobJellyfish",
+        "packPath": "stickers/telegram/BobJellyfish",
+        "count": 28,
+        "order": 1
+      },
+      {
+        "name": "BoysClub",
+        "packPath": "stickers/telegram/BoysClub",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Buddy_Bear",
+        "packPath": "stickers/telegram/Buddy_Bear",
+        "count": 28,
+        "order": 1
+      },
+      {
+        "name": "CaptainWhale",
+        "packPath": "stickers/telegram/CaptainWhale",
+        "count": 23,
+        "order": 1
+      },
+      {
+        "name": "CatCatCat",
+        "packPath": "stickers/telegram/CatCatCat",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Crocosaurus",
+        "packPath": "stickers/telegram/Crocosaurus",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "DebraZebra",
+        "packPath": "stickers/telegram/DebraZebra",
+        "count": 21,
+        "order": 1
+      },
+      {
+        "name": "FishPuffer",
+        "packPath": "stickers/telegram/FishPuffer",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "FoxyComrade",
+        "packPath": "stickers/telegram/FoxyComrade",
+        "count": 28,
+        "order": 1
+      },
+      {
+        "name": "HotCherry",
+        "packPath": "stickers/telegram/HotCherry",
+        "count": 34,
+        "order": 1
+      },
+      {
+        "name": "Ladybug",
+        "packPath": "stickers/telegram/Ladybug",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "LovelyPeachy",
+        "packPath": "stickers/telegram/LovelyPeachy",
+        "count": 23,
+        "order": 1
+      },
+      {
+        "name": "Miss_Bunny",
+        "packPath": "stickers/telegram/Miss_Bunny",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "MrCat",
+        "packPath": "stickers/telegram/MrCat",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "MrCroco",
+        "packPath": "stickers/telegram/MrCroco",
+        "count": 34,
+        "order": 1
+      },
+      {
+        "name": "MrPugDog",
+        "packPath": "stickers/telegram/MrPugDog",
+        "count": 22,
+        "order": 1
+      },
+      {
+        "name": "Muffin",
+        "packPath": "stickers/telegram/Muffin",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "PoolFlamingo",
+        "packPath": "stickers/telegram/PoolFlamingo",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "r2dog2",
+        "packPath": "stickers/telegram/r2dog2",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "Red_Squirrel",
+        "packPath": "stickers/telegram/Red_Squirrel",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "UtyaDuck",
+        "packPath": "stickers/telegram/UtyaDuck",
+        "count": 40,
+        "order": 1
+      },
+      {
+        "name": "WallyOwl",
+        "packPath": "stickers/telegram/WallyOwl",
+        "count": 33,
+        "order": 1
+      },
+      {
+        "name": "WolfAlpha",
+        "packPath": "stickers/telegram/WolfAlpha",
+        "count": 28,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Anime",
+    "order": 3,
+    "path": "stickers/anime",
+    "packs": [
+      {
+        "name": "Anime Love",
+        "packPath": "stickers/anime/AnimeLove",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Anime Set 1",
+        "packPath": "stickers/anime/AnimeSet1",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Anime Set 2",
+        "packPath": "stickers/anime/AnimeSet2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Anime Set 3",
+        "packPath": "stickers/anime/AnimeSet3",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Anime Set 4",
+        "packPath": "stickers/anime/AnimeSet4",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Doraemon Stickers 1",
+        "packPath": "stickers/anime/DoraemonStickersOne",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Doraemon Stickers 2",
+        "packPath": "stickers/anime/DoraemonStickersTwo",
+        "count": 28,
+        "order": 1
+      },
+      {
+        "name": "Dotori Korean",
+        "packPath": "stickers/anime/DotoriKorean",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Dragon Ball 4",
+        "packPath": "stickers/anime/DragonBallFour",
+        "count": 22,
+        "order": 1
+      },
+      {
+        "name": "Dragon Ball 1",
+        "packPath": "stickers/anime/DragonBallOne",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Dragon Ball 3",
+        "packPath": "stickers/anime/DragonBallThree",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Dragon Ball 2",
+        "packPath": "stickers/anime/DragonBallTwo",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Himouto! Umaru-chan",
+        "packPath": "stickers/anime/HimoutoUmaruChan",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "KPOP Stickers",
+        "packPath": "stickers/anime/KPopStickers",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Mickey Mouse",
+        "packPath": "stickers/anime/Mickey_Mouse",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Naruto 2",
+        "packPath": "stickers/anime/NarutoTwo",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "One Punch Man",
+        "packPath": "stickers/anime/OnePunchMan",
+        "count": 14,
+        "order": 1
+      },
+      {
+        "name": "Re:Zero",
+        "packPath": "stickers/anime/ReZero",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Shin Chan",
+        "packPath": "stickers/anime/ShinChan",
+        "count": 25,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Kpop",
+    "order": 4,
+    "path": "stickers/kpop",
+    "packs": [
+      {
+        "name": "Bangtan Boys",
+        "packPath": "stickers/kpop/BangtanBoys",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Black Pink Band 1",
+        "packPath": "stickers/kpop/BlackPinkOne",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Black Pink Band 2",
+        "packPath": "stickers/kpop/BlackPinkTwo",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Cute Fox",
+        "packPath": "stickers/kpop/CuteFox",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Dotori Korean",
+        "packPath": "stickers/kpop/DotoriKorean",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Exo Band",
+        "packPath": "stickers/kpop/ExoBand",
+        "count": 22,
+        "order": 1
+      },
+      {
+        "name": "iKON Band",
+        "packPath": "stickers/kpop/IkonBand",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "KPOP Stickers",
+        "packPath": "stickers/kpop/KPopStickers",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Twice Band Pack 4",
+        "packPath": "stickers/kpop/TwiceBandFour",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Twice Band Pack 1",
+        "packPath": "stickers/kpop/TwiceBandOne",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Twice Band Pack 3",
+        "packPath": "stickers/kpop/TwiceBandThree",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Twice Band Pack 2",
+        "packPath": "stickers/kpop/TwiceBandTwo",
+        "count": 30,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "LOL",
+    "order": 5,
+    "path": "stickers/lol",
+    "packs": [
+      {
+        "name": "Funny Cats (Bangla)",
+        "packPath": "stickers/lol/2PD34P",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "LOL reactions",
+        "packPath": "stickers/lol/3D9L7M",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bengali Daily Words",
+        "packPath": "stickers/lol/3EWKW9",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bengali Comedy Funny",
+        "packPath": "stickers/lol/3VTR3F",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Funny Bengali Memes",
+        "packPath": "stickers/lol/3WA4JN",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Quby funny bangla",
+        "packPath": "stickers/lol/6PGDMX",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bengali Dialogues",
+        "packPath": "stickers/lol/8Y2RNW",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "LOL Stickers",
+        "packPath": "stickers/lol/9J7JPZ",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bangla Movie Dialogues",
+        "packPath": "stickers/lol/33AX99",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Boss Baby",
+        "packPath": "stickers/lol/58PN7J",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bibaho Obhijaan",
+        "packPath": "stickers/lol/A6SBB6",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Shin Chan",
+        "packPath": "stickers/lol/AGW4NF",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Doraemon Stickers",
+        "packPath": "stickers/lol/BDNQQQ",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Random Cartoon Bengali",
+        "packPath": "stickers/lol/BFSCJD",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Golmaal Movie",
+        "packPath": "stickers/lol/BT3YSD",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Cheems doge and more",
+        "packPath": "stickers/lol/C346TD",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bengali Funny Memes",
+        "packPath": "stickers/lol/CYP4MC",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Fokinni stickers",
+        "packPath": "stickers/lol/DFHVNK",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "😂 Pack Special",
+        "packPath": "stickers/lol/DHDTC7",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bangla funny stickers",
+        "packPath": "stickers/lol/DS4RYG",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Rajpal Yadav Bengali",
+        "packPath": "stickers/lol/E2CYCK",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Mr Bean funny",
+        "packPath": "stickers/lol/F2XFPH",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Funny Quby",
+        "packPath": "stickers/lol/F5ZM9F",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Funny Stickers Bangla 1",
+        "packPath": "stickers/lol/FGLYPC",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Funny Monkey",
+        "packPath": "stickers/lol/FunnyMonkey",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Funny Reactions (Bengali)",
+        "packPath": "stickers/lol/G9LXPK",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Funny Bengali",
+        "packPath": "stickers/lol/HFUA2L",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "League of Legends",
+        "packPath": "stickers/lol/LeagueOfLegends",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Dhaamaal",
+        "packPath": "stickers/lol/LJAKQW",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Mr. Bean",
+        "packPath": "stickers/lol/MrBean",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Mr Funny Bean",
+        "packPath": "stickers/lol/MrFunnyBean",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Pink Panther Bangla",
+        "packPath": "stickers/lol/PNDVNE",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Poop Stickers",
+        "packPath": "stickers/lol/PoopPack",
+        "count": 6,
+        "order": 1
+      },
+      {
+        "name": "Bengali Words",
+        "packPath": "stickers/lol/R3NKGU",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Funny Politician",
+        "packPath": "stickers/lol/RSZRP3",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "LOL memes",
+        "packPath": "stickers/lol/S5GA6U",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bengali Dialogues new",
+        "packPath": "stickers/lol/U5D9WG",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Random Funny bengali memes",
+        "packPath": "stickers/lol/UBR9PJ",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bangla Text Slangs",
+        "packPath": "stickers/lol/UGGFNJ",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Doraemon Bangla",
+        "packPath": "stickers/lol/V7T3ZF",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bankura Memes",
+        "packPath": "stickers/lol/VB5XL6",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Youtube memes",
+        "packPath": "stickers/lol/WFSWQH",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bengali Slangs 2",
+        "packPath": "stickers/lol/WMPL8R",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Nonte Fonte",
+        "packPath": "stickers/lol/WRM26B",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Pagglait",
+        "packPath": "stickers/lol/WSDB99",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Baankura Memes",
+        "packPath": "stickers/lol/X6XQEY",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "samantha lol",
+        "packPath": "stickers/lol/Y4QAGB",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Roddur Roy",
+        "packPath": "stickers/lol/YGM3J9",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bangla Memes",
+        "packPath": "stickers/lol/Z6T59B",
+        "count": 15,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Animal",
+    "order": 6,
+    "path": "stickers/animals",
+    "packs": [
+      {
+        "name": "Tommy Memes",
+        "packPath": "stickers/animals/4NKQX6",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Zootopia",
+        "packPath": "stickers/animals/5KG3UR",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Aliens",
+        "packPath": "stickers/animals/Aliens",
+        "count": 25,
+        "order": 1
+      },
+      {
+        "name": "Angry Animals",
+        "packPath": "stickers/animals/AngryAnimals",
+        "count": 14,
+        "order": 1
+      },
+      {
+        "name": "Animals",
+        "packPath": "stickers/animals/Animals",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Cat Full Moon",
+        "packPath": "stickers/animals/CatFullMoon",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Cool Animals",
+        "packPath": "stickers/animals/CoolAnimals",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Crying Animals",
+        "packPath": "stickers/animals/CryingAnimals",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Cute Chicken",
+        "packPath": "stickers/animals/CuteChicken",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Cute Owls",
+        "packPath": "stickers/animals/CuteOwls",
+        "count": 9,
+        "order": 1
+      },
+      {
+        "name": "Easter Bunny",
+        "packPath": "stickers/animals/EasterBunny",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Funny Monkey",
+        "packPath": "stickers/animals/FunnyMonkey",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Trending Doge Part 6",
+        "packPath": "stickers/animals/GEDTSY",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "George The Penguin",
+        "packPath": "stickers/animals/GeorgeThePenguin",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Funny Memes",
+        "packPath": "stickers/animals/GH68J3",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Happy Numbers",
+        "packPath": "stickers/animals/HappyNumbers",
+        "count": 10,
+        "order": 1
+      },
+      {
+        "name": "Funny Animals",
+        "packPath": "stickers/animals/HY2AD6",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Little Pony",
+        "packPath": "stickers/animals/LittlePony",
+        "count": 25,
+        "order": 1
+      },
+      {
+        "name": "Machiko Rabbit 1",
+        "packPath": "stickers/animals/MachikoRabbit1",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Machiko Rabbit 2",
+        "packPath": "stickers/animals/MachikoRabbit2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Machiko Rabbit 3",
+        "packPath": "stickers/animals/MachikoRabbit3",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Machiko Rabbit 4",
+        "packPath": "stickers/animals/MachikoRabbit4",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Meet The Pugs",
+        "packPath": "stickers/animals/MeetThePugs",
+        "count": 12,
+        "order": 1
+      },
+      {
+        "name": "Monkey Emojis",
+        "packPath": "stickers/animals/MonkeyEmojis",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Funny Mew",
+        "packPath": "stickers/animals/NTJTC4",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Panda Emo",
+        "packPath": "stickers/animals/PandaEmo",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "Panda",
+        "packPath": "stickers/animals/PandaEmojis",
+        "count": 23,
+        "order": 1
+      },
+      {
+        "name": "Penguin",
+        "packPath": "stickers/animals/PenguinAct",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Penguins of Madagascar",
+        "packPath": "stickers/animals/REMYAK",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Ice age",
+        "packPath": "stickers/animals/RXUKRU",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Simons Cat",
+        "packPath": "stickers/animals/SimonsCat",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Speaking Animals",
+        "packPath": "stickers/animals/SpeakingAnimals",
+        "count": 21,
+        "order": 1
+      },
+      {
+        "name": "Cat Collection Odia",
+        "packPath": "stickers/animals/T6A7HR",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Trending Doge Part 4",
+        "packPath": "stickers/animals/VUEGGV",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Yeti",
+        "packPath": "stickers/animals/YetiSnowman",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Trending Doge Part 5",
+        "packPath": "stickers/animals/YME4ET",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Funny Tigers",
+        "packPath": "stickers/animals/YWBGLN",
+        "count": 15,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Wishes",
+    "order": 7,
+    "path": "stickers/wishes",
+    "packs": [
+      {
+        "name": "Happy Republic Day",
+        "packPath": "stickers/wishes/2NGYAR",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "New Year Wishes (Kannada)",
+        "packPath": "stickers/wishes/4V6QC8",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Bhogi",
+        "packPath": "stickers/wishes/6YUVSE",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Baisakhi Wishes",
+        "packPath": "stickers/wishes/7P76U7",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Republic Day",
+        "packPath": "stickers/wishes/85RJQW",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Diwali Wishes Kannada",
+        "packPath": "stickers/wishes/AHJSQL",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Anniversary Wishes",
+        "packPath": "stickers/wishes/AnniversaryWishes",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "Republic Day Wishes",
+        "packPath": "stickers/wishes/AQJ2SQ",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Holi",
+        "packPath": "stickers/wishes/AUFKDF",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Birthday Wishes",
+        "packPath": "stickers/wishes/BirthdayWishes",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Labour day wishes",
+        "packPath": "stickers/wishes/BQ3WSS",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Happy Holi",
+        "packPath": "stickers/wishes/C2V79R",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Christmas Wishes",
+        "packPath": "stickers/wishes/ChristmasWishes",
+        "count": 14,
+        "order": 1
+      },
+      {
+        "name": "Diwali Wishes",
+        "packPath": "stickers/wishes/FFBAPM",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Independence Day Wishes",
+        "packPath": "stickers/wishes/FRX9ZL",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Makar Sankranti",
+        "packPath": "stickers/wishes/G4NQJK",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Good Night",
+        "packPath": "stickers/wishes/GoodNightPack",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Graduation Wishes",
+        "packPath": "stickers/wishes/Graduation",
+        "count": 9,
+        "order": 1
+      },
+      {
+        "name": "Gujarati Wishes",
+        "packPath": "stickers/wishes/GujaratiWishes",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Lohri Festival Wishes",
+        "packPath": "stickers/wishes/HA76RB",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Happy Pongal",
+        "packPath": "stickers/wishes/HappyPongal2",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Holi Wishes",
+        "packPath": "stickers/wishes/HoliWishes",
+        "count": 22,
+        "order": 1
+      },
+      {
+        "name": "Gandhi Jayanti",
+        "packPath": "stickers/wishes/HPX7QK",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Independence Day Wish 1",
+        "packPath": "stickers/wishes/L4P74P",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Lohri Wishes",
+        "packPath": "stickers/wishes/LohriWishes",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Holi Stickers",
+        "packPath": "stickers/wishes/M5FAQP",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Republic Day",
+        "packPath": "stickers/wishes/M46P36",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Milad un Nabi Wishes",
+        "packPath": "stickers/wishes/MiladunNabiWishes",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Christmas Kannada Wishes",
+        "packPath": "stickers/wishes/NB4D2L",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Mothers Day Wishes",
+        "packPath": "stickers/wishes/NDH9VM",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "New Year Wishes 2022",
+        "packPath": "stickers/wishes/NewYear2022Wishes",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Daily Wishes",
+        "packPath": "stickers/wishes/NKS4V2",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Wishes Pack 1",
+        "packPath": "stickers/wishes/PENLHP",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Pongal",
+        "packPath": "stickers/wishes/Pongal",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Pongal Wishes 1",
+        "packPath": "stickers/wishes/PongalWishes1",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Pongal Wishes 2",
+        "packPath": "stickers/wishes/PongalWishes2",
+        "count": 19,
+        "order": 1
+      },
+      {
+        "name": "Independence Day Wishes",
+        "packPath": "stickers/wishes/Q2RFAU",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "New Year Wishes",
+        "packPath": "stickers/wishes/QN8839",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Gandhi Jayanti",
+        "packPath": "stickers/wishes/QYATF4",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Wishes Pack 2",
+        "packPath": "stickers/wishes/RE2VJT",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Children\u0027s Day Wishes (Kannada)",
+        "packPath": "stickers/wishes/RQYVXG",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Diwali Wishes",
+        "packPath": "stickers/wishes/RZJ2RX",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Labour day wishes",
+        "packPath": "stickers/wishes/U2XDLM",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Makar Sankranti Wishes",
+        "packPath": "stickers/wishes/U7Y5LP",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Sankranti Festival Wishes",
+        "packPath": "stickers/wishes/UT3M4S",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Wishes",
+        "packPath": "stickers/wishes/V528RX",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Ramzan Wishes",
+        "packPath": "stickers/wishes/VHCVQX",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Holi Wish",
+        "packPath": "stickers/wishes/W8KA9S",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "Wishes From Flowers",
+        "packPath": "stickers/wishes/W8RKGF",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Weekend Wishes",
+        "packPath": "stickers/wishes/WeekendWishes",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Wishes 2",
+        "packPath": "stickers/wishes/Wishes2",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Uthradam Wishes",
+        "packPath": "stickers/wishes/WJE2X9",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Gandhi Jayanti",
+        "packPath": "stickers/wishes/WXQ5XQ",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Ramzan Wishes 1",
+        "packPath": "stickers/wishes/XJHCEF",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Onam wishes",
+        "packPath": "stickers/wishes/XPHWBW",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Happy Vishu",
+        "packPath": "stickers/wishes/Y9JME4",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Happy Birth Day",
+        "packPath": "stickers/wishes/Y64J6R",
+        "count": 16,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Mavel",
+    "order": 8,
+    "path": "stickers/marvel",
+    "packs": [
+      {
+        "name": "Spiderman Homecoming",
+        "packPath": "stickers/marvel/SpidermanHomecoming",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Onam Special",
+        "packPath": "stickers/marvel/OnamSpecial",
+        "count": 14,
+        "order": 1
+      },
+      {
+        "name": "Happy Onam",
+        "packPath": "stickers/marvel/NCZ77F",
+        "count": 18,
+        "order": 1
+      },
+      {
+        "name": "Onam",
+        "packPath": "stickers/marvel/Onam",
+        "count": 12,
+        "order": 1
+      },
+      {
+        "name": "Marvel Stickers 3",
+        "packPath": "stickers/marvel/MarvelStickers3",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Marvel Trolls",
+        "packPath": "stickers/marvel/MarvelTrolls",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Marvel Stickers 2",
+        "packPath": "stickers/marvel/MarvelStickers2",
+        "count": 28,
+        "order": 1
+      },
+      {
+        "name": "Marvel Stickers 1",
+        "packPath": "stickers/marvel/MarvelStickers1",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Deadpool 1",
+        "packPath": "stickers/marvel/DeadpoolSticker",
+        "count": 14,
+        "order": 1
+      },
+      {
+        "name": "girls friendship goals",
+        "packPath": "stickers/marvel/DERLDD",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Marvel Avengers",
+        "packPath": "stickers/marvel/CPREYA",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Happy Onam",
+        "packPath": "stickers/marvel/AZBYRD",
+        "count": 20,
+        "order": 1
+      },
+      {
+        "name": "Avengers",
+        "packPath": "stickers/marvel/AvengersPack",
+        "count": 17,
+        "order": 1
+      },
+      {
+        "name": "Crazy kanmani",
+        "packPath": "stickers/marvel/ARLBE4",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "boys friendship goals",
+        "packPath": "stickers/marvel/AFNTCV",
+        "count": 15,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Game",
+    "order": 9,
+    "path": "stickers/games",
+    "packs": [
+      {
+        "name": "Puneeth Rajkumar",
+        "packPath": "stickers/games/66A6CN",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "CS:GO",
+        "packPath": "stickers/games/CounterStrike1",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "CS:GO 2",
+        "packPath": "stickers/games/CounterStrike2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "PUBG",
+        "packPath": "stickers/games/F3AAGP",
+        "count": 15,
+        "order": 1
+      },
+      {
+        "name": "Fortnite",
+        "packPath": "stickers/games/Fortinite1",
+        "count": 29,
+        "order": 1
+      },
+      {
+        "name": "Fortnite 2",
+        "packPath": "stickers/games/Fortnite2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "GOT Characters",
+        "packPath": "stickers/games/GotCharacters",
+        "count": 24,
+        "order": 1
+      },
+      {
+        "name": "Minecraft",
+        "packPath": "stickers/games/MinecraftPack",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "Pokemon 1 of 5",
+        "packPath": "stickers/games/PokemonPack1",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Pokemon 2 of 5",
+        "packPath": "stickers/games/PokemonPack2",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Pokemon 3 of 5",
+        "packPath": "stickers/games/PokemonPack3",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Pokemon 4 of 5",
+        "packPath": "stickers/games/PokemonPack4",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "Pokemon 5 of 5",
+        "packPath": "stickers/games/PokemonPack5",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "PUBG 3D set",
+        "packPath": "stickers/games/PUBG3D",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "PUBG Cartoon Pack",
+        "packPath": "stickers/games/PUBGCartoonPack",
+        "count": 30,
+        "order": 1
+      },
+      {
+        "name": "PUBG Malayalam",
+        "packPath": "stickers/games/PUBGMalayalam",
+        "count": 26,
+        "order": 1
+      },
+      {
+        "name": "PUBG Text",
+        "packPath": "stickers/games/PUBGText",
+        "count": 21,
+        "order": 1
+      },
+      {
+        "name": "PUBG Vector Set",
+        "packPath": "stickers/games/PUBGVectorSet",
+        "count": 16,
+        "order": 1
+      },
+      {
+        "name": "PUBG Weapons",
+        "packPath": "stickers/games/PUBGWeapons",
+        "count": 27,
+        "order": 1
+      },
+      {
+        "name": "Animated movie posters 2",
+        "packPath": "stickers/games/RU5C9D",
+        "count": 17,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "name": "Sport",
+    "order": 10,
+    "path": "stickers/sport",
+    "packs": [
+      {
+        "name": "6EZU29",
+        "packPath": "stickers/sport/6EZU29",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "7MJVVY",
+        "packPath": "stickers/sport/7MJVVY",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "7MPR7E",
+        "packPath": "stickers/sport/7MPR7E",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "9gagPopular",
+        "packPath": "stickers/sport/9gagPopular",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "56T8KW",
+        "packPath": "stickers/sport/56T8KW",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "CQ4BAQ",
+        "packPath": "stickers/sport/CQ4BAQ",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "CricketBatsmanSet",
+        "packPath": "stickers/sport/CricketBatsmanSet",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "CricketersReaction",
+        "packPath": "stickers/sport/CricketersReaction",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "CricketersReaction2",
+        "packPath": "stickers/sport/CricketersReaction2",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "CricketPlayerMeme1",
+        "packPath": "stickers/sport/CricketPlayerMeme1",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "DNERC8",
+        "packPath": "stickers/sport/DNERC8",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "IndianCricketTeam",
+        "packPath": "stickers/sport/IndianCricketTeam",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "IPL2",
+        "packPath": "stickers/sport/IPL2",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "LionelMessi",
+        "packPath": "stickers/sport/LionelMessi",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "LQHCQ6",
+        "packPath": "stickers/sport/LQHCQ6",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "MotorBikes",
+        "packPath": "stickers/sport/MotorBikes",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "NGB2DZ",
+        "packPath": "stickers/sport/NGB2DZ",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "NTMFY4",
+        "packPath": "stickers/sport/NTMFY4",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "U3SUVV",
+        "packPath": "stickers/sport/U3SUVV",
+        "count": 0,
+        "order": 1
+      },
+      {
+        "name": "WWLEY2",
+        "packPath": "stickers/sport/WWLEY2",
+        "count": 0,
+        "order": 1
+      }
+    ]
+  }
+]
